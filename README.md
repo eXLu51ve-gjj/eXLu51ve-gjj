@@ -9,18 +9,10 @@
 ## 🌐 Свяжитесь со мной:
 
 <p align="left">
-  <a href="https://www.youtube.com/@eXLu51ve" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/youtube-play.png" alt="YouTube" width="40" height="40"/>
-  </a>
-  <a href="https://www.instagram.com/exlu51ve_nml/" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="Instagram" width="40" height="40"/>
-  </a>
-  <a href="https://vk.com/exlu51ve" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/vk-circled.png" alt="VK" width="40" height="40"/>
-  </a>
-  <a href="https://github.com/eXLu51ve-gjj" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/github--v1.png" alt="GitHub" width="40" height="40"/>
-  </a>
+  <a href="https://www.youtube.com/@eXLu51ve" target="_blank"><img src="https://img.icons8.com/color/48/000000/youtube-play.png" alt="YouTube" width="40" height="40"/></a>
+  <a href="https://www.instagram.com/exlu51ve_nml/" target="_blank"><img src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="Instagram" width="40" height="40"/></a>
+  <a href="https://vk.com/exlu51ve" target="_blank"><img src="https://img.icons8.com/color/48/000000/vk-circled.png" alt="VK" width="40" height="40"/></a>
+  <a href="https://github.com/eXLu51ve-gjj" target="_blank"><img src="https://img.icons8.com/color/48/000000/github--v1.png" alt="GitHub" width="40" height="40"/></a>
 </p>
 
 ---
@@ -28,7 +20,7 @@
 ## 💻 Языки программирования и инструменты:
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=vscode,html,css,sass,js,ts,react,redux,nextjs,nodejs,express,py,fastapi,flutter,dart,kotlin,androidstudio,postgres,sqlite,prisma,docker,git,github,bash&perline=12" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=vscode,html,css,sass,js,ts,react,redux,nextjs,nuxtjs,nodejs,express,py,fastapi,flutter,dart,kotlin,androidstudio,postgres,sqlite,prisma,supabase,docker,git,github,bash,postman,figma,npm,yarn,webpack,vite&perline=16" alt="Tech Stack" />
 </p>
 
 ---
@@ -123,7 +115,7 @@ const timur = {
 ## 🔥 Мой стек:
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,python,kotlin,flutter,dart,html,css,sass,postgres,sqlite,prisma,docker,git,github,vscode,androidstudio&perline=10" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nuxtjs,nodejs,py,kotlin,flutter,dart,html,css,sass,postgres,sqlite,prisma,supabase,docker,git,github,vscode,androidstudio,postman,figma,npm,yarn,webpack,vite,bash&perline=15" alt="Tech Stack" />
 </div>
 
 ---
