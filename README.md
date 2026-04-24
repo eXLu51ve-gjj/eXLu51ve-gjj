@@ -49,9 +49,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="40" title="Apache"/>
   <img src="https://cdn.simpleicons.org/letsencrypt/003A70" width="40" title="Let's Encrypt"/>
   <img src="https://cdn.simpleicons.org/cloudflare/F38020" width="40" title="Cloudflare"/>
-  <img src="https://cdn.simpleicons.org/openssh/000000" width="40" title="OpenSSH"/>
   <img src="https://cdn.simpleicons.org/wireguard/88171A" width="40" title="WireGuard"/>
   <img src="https://cdn.simpleicons.org/openvpn/EA7E20" width="40" title="OpenVPN"/>
+  <img src="https://cdn.simpleicons.org/v2ray/2196F3" width="40" title="V2Ray"/>
+  <img src="https://cdn.simpleicons.org/shadowsocks/3F51B5" width="40" title="Shadowsocks"/>
 </p>
 
 <p align="center">
@@ -59,13 +60,16 @@
   <img src="https://img.shields.io/badge/SSL/TLS-721412?style=flat&logo=letsencrypt&logoColor=white" height="28" title="SSL/TLS"/>
   <img src="https://img.shields.io/badge/TCP-0066CC?style=flat&logo=protocol&logoColor=white" height="28" title="TCP"/>
   <img src="https://img.shields.io/badge/UDP-00AA00?style=flat&logo=protocol&logoColor=white" height="28" title="UDP"/>
+  <img src="https://img.shields.io/badge/SSH-000000?style=flat&logo=openssh&logoColor=white" height="28" title="SSH"/>
   <img src="https://img.shields.io/badge/FTP/SFTP-FF6600?style=flat&logo=files&logoColor=white" height="28" title="FTP/SFTP"/>
   <img src="https://img.shields.io/badge/DNS-1E88E5?style=flat&logo=cloudflare&logoColor=white" height="28" title="DNS"/>
   <img src="https://img.shields.io/badge/DHCP-43A047?style=flat&logo=network&logoColor=white" height="28" title="DHCP"/>
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/WebSocket-010101?style=flat&logo=socketdotio&logoColor=white" height="28" title="WebSocket"/>
   <img src="https://img.shields.io/badge/VLESS-9C27B0?style=flat&logo=v2ray&logoColor=white" height="28" title="VLESS"/>
   <img src="https://img.shields.io/badge/VMess-673AB7?style=flat&logo=v2ray&logoColor=white" height="28" title="VMess"/>
-  <img src="https://img.shields.io/badge/Shadowsocks-3F51B5?style=flat&logo=shadowsocks&logoColor=white" height="28" title="Shadowsocks"/>
   <img src="https://img.shields.io/badge/Trojan-E91E63?style=flat&logo=trojan&logoColor=white" height="28" title="Trojan"/>
   <img src="https://img.shields.io/badge/SOCKS5-607D8B?style=flat&logo=proxy&logoColor=white" height="28" title="SOCKS5"/>
   <img src="https://img.shields.io/badge/IPSec-FF5722?style=flat&logo=security&logoColor=white" height="28" title="IPSec"/>
