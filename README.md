@@ -4,7 +4,7 @@
   <img src="https://github.com/eXLu51ve-gjj/eXLu51ve-gjj/blob/main/logo5.jpg?raw=true" alt="eXLu51ve Logo" width="200"/>
 </td>
 <td>
-  <img src="https://readme-quotes-bay.vercel.app/quote?theme=radical&animation=default&layout=default&font=default" alt="Dev Quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
 </td>
 </tr>
 </table>
