@@ -8,7 +8,14 @@
 
 ## 🌐 Свяжитесь со мной:
 
-[<img src="https://img.icons8.com/color/48/000000/youtube-play.png" alt="YouTube" width="40" height="40"/>](https://www.youtube.com/@eXLu51ve) [<img src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="Instagram" width="40" height="40"/>](https://www.instagram.com/exlu51ve_nml/) [<img src="https://img.icons8.com/color/48/000000/vk-circled.png" alt="VK" width="40" height="40"/>](https://vk.com/exlu51ve) [<img src="https://img.icons8.com/color/48/000000/github--v1.png" alt="GitHub" width="40" height="40"/>](https://github.com/eXLu51ve-gjj)
+<table>
+  <tr>
+    <td><a href="https://www.youtube.com/@eXLu51ve"><img src="https://cdn.simpleicons.org/youtube/FF0000" width="40"/></a></td>
+    <td><a href="https://www.instagram.com/exlu51ve_nml/"><img src="https://cdn.simpleicons.org/instagram/E4405F" width="40"/></a></td>
+    <td><a href="https://vk.com/exlu51ve"><img src="https://cdn.simpleicons.org/vk/0077FF" width="40"/></a></td>
+    <td><a href="https://github.com/eXLu51ve-gjj"><img src="https://cdn.simpleicons.org/github/181717" width="40"/></a></td>
+  </tr>
+</table>
 
 ---
 
