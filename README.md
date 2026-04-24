@@ -18,43 +18,43 @@
 ## 💻 Языки программирования и инструменты:
 
 <p align="center">
-  <img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" width="40" title="VS Code"/>
-  <img src="https://cdn.simpleicons.org/html5/E34F26" width="40" title="HTML5"/>
-  <img src="https://cdn.simpleicons.org/css3/1572B6" width="40" title="CSS3"/>
-  <img src="https://cdn.simpleicons.org/sass/CC6699" width="40" title="Sass"/>
-  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="40" title="JavaScript"/>
-  <img src="https://cdn.simpleicons.org/typescript/3178C6" width="40" title="TypeScript"/>
-  <img src="https://cdn.simpleicons.org/react/61DAFB" width="40" title="React"/>
-  <img src="https://cdn.simpleicons.org/redux/764ABC" width="40" title="Redux"/>
-  <img src="https://cdn.simpleicons.org/nextdotjs/000000" width="40" title="Next.js"/>
-  <img src="https://cdn.simpleicons.org/nuxtdotjs/00DC82" width="40" title="Nuxt.js"/>
-  <img src="https://cdn.simpleicons.org/vuedotjs/4FC08D" width="40" title="Vue.js"/>
-  <img src="https://cdn.simpleicons.org/nodedotjs/339933" width="40" title="Node.js"/>
-  <img src="https://cdn.simpleicons.org/express/000000" width="40" title="Express"/>
-  <img src="https://cdn.simpleicons.org/python/3776AB" width="40" title="Python"/>
-  <img src="https://cdn.simpleicons.org/fastapi/009688" width="40" title="FastAPI"/>
-  <img src="https://cdn.simpleicons.org/flutter/02569B" width="40" title="Flutter"/>
-  <img src="https://cdn.simpleicons.org/dart/0175C2" width="40" title="Dart"/>
-  <img src="https://cdn.simpleicons.org/kotlin/7F52FF" width="40" title="Kotlin"/>
-  <img src="https://cdn.simpleicons.org/androidstudio/3DDC84" width="40" title="Android Studio"/>
-  <img src="https://cdn.simpleicons.org/postgresql/4169E1" width="40" title="PostgreSQL"/>
-  <img src="https://cdn.simpleicons.org/mysql/4479A1" width="40" title="MySQL"/>
-  <img src="https://cdn.simpleicons.org/sqlite/003B57" width="40" title="SQLite"/>
-  <img src="https://cdn.simpleicons.org/mongodb/47A248" width="40" title="MongoDB"/>
-  <img src="https://cdn.simpleicons.org/prisma/2D3748" width="40" title="Prisma"/>
-  <img src="https://cdn.simpleicons.org/supabase/3FCF8E" width="40" title="Supabase"/>
-  <img src="https://cdn.simpleicons.org/docker/2496ED" width="40" title="Docker"/>
-  <img src="https://cdn.simpleicons.org/kubernetes/326CE5" width="40" title="Kubernetes"/>
-  <img src="https://cdn.simpleicons.org/git/F05032" width="40" title="Git"/>
-  <img src="https://cdn.simpleicons.org/github/181717" width="40" title="GitHub"/>
-  <img src="https://cdn.simpleicons.org/gnubash/4EAA25" width="40" title="Bash"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" title="VS Code"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" title="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" title="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="40" title="Sass"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" title="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" title="TypeScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" title="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="40" title="Redux"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" title="Next.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" width="40" title="Nuxt.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40" title="Vue.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" title="Node.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" title="Express"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" title="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40" title="FastAPI"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" title="Flutter"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="40" title="Dart"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="40" title="Kotlin"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="40" title="Android Studio"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" title="PostgreSQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" title="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40" title="SQLite"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" title="MongoDB"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" width="40" title="Prisma"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" width="40" title="Supabase"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" title="Docker"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40" title="Kubernetes"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" title="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" title="GitHub"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" title="Bash"/>
   <img src="https://cdn.simpleicons.org/powershell/5391FE" width="40" title="PowerShell"/>
-  <img src="https://cdn.simpleicons.org/postman/FF6C37" width="40" title="Postman"/>
-  <img src="https://cdn.simpleicons.org/figma/F24E1E" width="40" title="Figma"/>
-  <img src="https://cdn.simpleicons.org/npm/CB3837" width="40" title="npm"/>
-  <img src="https://cdn.simpleicons.org/yarn/2C8EBB" width="40" title="Yarn"/>
-  <img src="https://cdn.simpleicons.org/webpack/8DD6F9" width="40" title="Webpack"/>
-  <img src="https://cdn.simpleicons.org/vite/646CFF" width="40" title="Vite"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40" title="Postman"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" title="Figma"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="40" title="npm"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" width="40" title="Yarn"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" width="40" title="Webpack"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" width="40" title="Vite"/>
 </p>
 
 ---
@@ -149,41 +149,41 @@ const timur = {
 ## 🔥 Мой стек:
 
 <p align="center">
-  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="40" title="JavaScript"/>
-  <img src="https://cdn.simpleicons.org/typescript/3178C6" width="40" title="TypeScript"/>
-  <img src="https://cdn.simpleicons.org/react/61DAFB" width="40" title="React"/>
-  <img src="https://cdn.simpleicons.org/nextdotjs/000000" width="40" title="Next.js"/>
-  <img src="https://cdn.simpleicons.org/nuxtdotjs/00DC82" width="40" title="Nuxt.js"/>
-  <img src="https://cdn.simpleicons.org/vuedotjs/4FC08D" width="40" title="Vue.js"/>
-  <img src="https://cdn.simpleicons.org/nodedotjs/339933" width="40" title="Node.js"/>
-  <img src="https://cdn.simpleicons.org/express/000000" width="40" title="Express"/>
-  <img src="https://cdn.simpleicons.org/python/3776AB" width="40" title="Python"/>
-  <img src="https://cdn.simpleicons.org/fastapi/009688" width="40" title="FastAPI"/>
-  <img src="https://cdn.simpleicons.org/kotlin/7F52FF" width="40" title="Kotlin"/>
-  <img src="https://cdn.simpleicons.org/flutter/02569B" width="40" title="Flutter"/>
-  <img src="https://cdn.simpleicons.org/dart/0175C2" width="40" title="Dart"/>
-  <img src="https://cdn.simpleicons.org/html5/E34F26" width="40" title="HTML5"/>
-  <img src="https://cdn.simpleicons.org/css3/1572B6" width="40" title="CSS3"/>
-  <img src="https://cdn.simpleicons.org/sass/CC6699" width="40" title="Sass"/>
-  <img src="https://cdn.simpleicons.org/postgresql/4169E1" width="40" title="PostgreSQL"/>
-  <img src="https://cdn.simpleicons.org/mysql/4479A1" width="40" title="MySQL"/>
-  <img src="https://cdn.simpleicons.org/sqlite/003B57" width="40" title="SQLite"/>
-  <img src="https://cdn.simpleicons.org/mongodb/47A248" width="40" title="MongoDB"/>
-  <img src="https://cdn.simpleicons.org/prisma/2D3748" width="40" title="Prisma"/>
-  <img src="https://cdn.simpleicons.org/supabase/3FCF8E" width="40" title="Supabase"/>
-  <img src="https://cdn.simpleicons.org/docker/2496ED" width="40" title="Docker"/>
-  <img src="https://cdn.simpleicons.org/kubernetes/326CE5" width="40" title="Kubernetes"/>
-  <img src="https://cdn.simpleicons.org/git/F05032" width="40" title="Git"/>
-  <img src="https://cdn.simpleicons.org/github/181717" width="40" title="GitHub"/>
-  <img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" width="40" title="VS Code"/>
-  <img src="https://cdn.simpleicons.org/androidstudio/3DDC84" width="40" title="Android Studio"/>
-  <img src="https://cdn.simpleicons.org/postman/FF6C37" width="40" title="Postman"/>
-  <img src="https://cdn.simpleicons.org/figma/F24E1E" width="40" title="Figma"/>
-  <img src="https://cdn.simpleicons.org/npm/CB3837" width="40" title="npm"/>
-  <img src="https://cdn.simpleicons.org/yarn/2C8EBB" width="40" title="Yarn"/>
-  <img src="https://cdn.simpleicons.org/webpack/8DD6F9" width="40" title="Webpack"/>
-  <img src="https://cdn.simpleicons.org/vite/646CFF" width="40" title="Vite"/>
-  <img src="https://cdn.simpleicons.org/gnubash/4EAA25" width="40" title="Bash"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" title="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" title="TypeScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" title="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" title="Next.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" width="40" title="Nuxt.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40" title="Vue.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" title="Node.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" title="Express"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" title="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40" title="FastAPI"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="40" title="Kotlin"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" title="Flutter"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="40" title="Dart"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" title="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" title="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="40" title="Sass"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" title="PostgreSQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" title="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40" title="SQLite"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" title="MongoDB"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" width="40" title="Prisma"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" width="40" title="Supabase"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" title="Docker"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40" title="Kubernetes"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" title="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" title="GitHub"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" title="VS Code"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="40" title="Android Studio"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40" title="Postman"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" title="Figma"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="40" title="npm"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" width="40" title="Yarn"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" width="40" title="Webpack"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" width="40" title="Vite"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" title="Bash"/>
   <img src="https://cdn.simpleicons.org/powershell/5391FE" width="40" title="PowerShell"/>
 </p>
 
