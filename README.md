@@ -8,15 +8,13 @@
 
 ## 🌐 Свяжитесь со мной:
 
-<a href="https://www.youtube.com/@eXLu51ve" target="_blank"><img src="https://img.icons8.com/color/48/000000/youtube-play.png" alt="YouTube" width="40" height="40"/></a> <a href="https://www.instagram.com/exlu51ve_nml/" target="_blank"><img src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="Instagram" width="40" height="40"/></a> <a href="https://vk.com/exlu51ve" target="_blank"><img src="https://img.icons8.com/color/48/000000/vk-circled.png" alt="VK" width="40" height="40"/></a> <a href="https://github.com/eXLu51ve-gjj" target="_blank"><img src="https://img.icons8.com/color/48/000000/github--v1.png" alt="GitHub" width="40" height="40"/></a>
+[<img src="https://img.icons8.com/color/48/000000/youtube-play.png" alt="YouTube" width="40" height="40"/>](https://www.youtube.com/@eXLu51ve) [<img src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="Instagram" width="40" height="40"/>](https://www.instagram.com/exlu51ve_nml/) [<img src="https://img.icons8.com/color/48/000000/vk-circled.png" alt="VK" width="40" height="40"/>](https://vk.com/exlu51ve) [<img src="https://img.icons8.com/color/48/000000/github--v1.png" alt="GitHub" width="40" height="40"/>](https://github.com/eXLu51ve-gjj)
 
 ---
 
 ## 💻 Языки программирования и инструменты:
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=vscode,html,css,sass,js,ts,react,redux,nextjs,nuxtjs,vue,nodejs,express,py,fastapi,flutter,dart,kotlin,androidstudio,postgres,mysql,sqlite,mongodb,prisma,supabase,docker,kubernetes,git,github,bash,powershell,postman,figma,npm,yarn,webpack,vite&theme=dark&perline=16" alt="Tech Stack" />
-</p>
+![Tech Stack](https://skillicons.dev/icons?i=vscode,html,css,sass,js,ts,react,redux,nextjs,nuxtjs,vue,nodejs,express,py,fastapi,flutter,dart,kotlin,androidstudio,postgres,mysql,sqlite,mongodb,prisma,supabase,docker,kubernetes,git,github,bash,powershell,postman,figma,npm,yarn,webpack,vite&theme=dark&perline=16)
 
 ---
 
@@ -93,12 +91,12 @@ const timur = {
   role: "Full Stack Developer",
   code: ["JavaScript", "TypeScript", "Python", "Kotlin", "Dart"],
   technologies: {
-    frontend: ["React", "Next.js", "HTML", "CSS", "Sass"],
+    frontend: ["React", "Next.js", "Vue.js", "HTML", "CSS", "Sass"],
     backend: ["Node.js", "Express", "FastAPI", "Prisma"],
     mobile: ["React Native", "Flutter", "Android (Kotlin)"],
-    databases: ["PostgreSQL", "SQLite"],
-    devOps: ["Docker", "Git", "GitHub Actions"],
-    tools: ["VS Code", "Android Studio", "Postman"]
+    databases: ["PostgreSQL", "MySQL", "SQLite", "MongoDB"],
+    devOps: ["Docker", "Kubernetes", "Git", "GitHub Actions"],
+    tools: ["VS Code", "Android Studio", "Postman", "Figma"]
   },
   currentFocus: "Building awesome projects and learning new technologies",
   funFact: "I love creating VPN solutions and productivity tools! 🚀"
@@ -110,7 +108,9 @@ const timur = {
 ## 🔥 Мой стек:
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nuxtjs,vue,nodejs,express,py,fastapi,kotlin,flutter,dart,html,css,sass,postgres,mysql,sqlite,mongodb,prisma,supabase,docker,kubernetes,git,github,vscode,androidstudio,postman,figma,npm,yarn,webpack,vite,bash,powershell&theme=dark&perline=18" alt="Tech Stack" />
+  
+![Tech Stack](https://skillicons.dev/icons?i=js,ts,react,nextjs,nuxtjs,vue,nodejs,express,py,fastapi,kotlin,flutter,dart,html,css,sass,postgres,mysql,sqlite,mongodb,prisma,supabase,docker,kubernetes,git,github,vscode,androidstudio,postman,figma,npm,yarn,webpack,vite,bash,powershell&theme=dark&perline=18)
+
 </div>
 
 ---
