@@ -51,11 +51,6 @@
   <img src="https://cdn.simpleicons.org/cloudflare/F38020" width="40" title="Cloudflare"/>
   <img src="https://cdn.simpleicons.org/wireguard/88171A" width="40" title="WireGuard"/>
   <img src="https://cdn.simpleicons.org/openvpn/EA7E20" width="40" title="OpenVPN"/>
-  <img src="https://cdn.simpleicons.org/v2ray/2196F3" width="40" title="V2Ray"/>
-  <img src="https://cdn.simpleicons.org/shadowsocks/3F51B5" width="40" title="Shadowsocks"/>
-</p>
-
-<p align="center">
   <img src="https://img.shields.io/badge/HTTP/HTTPS-005C84?style=flat&logo=https&logoColor=white" height="28" title="HTTP/HTTPS"/>
   <img src="https://img.shields.io/badge/SSL/TLS-721412?style=flat&logo=letsencrypt&logoColor=white" height="28" title="SSL/TLS"/>
   <img src="https://img.shields.io/badge/TCP-0066CC?style=flat&logo=protocol&logoColor=white" height="28" title="TCP"/>
@@ -64,9 +59,6 @@
   <img src="https://img.shields.io/badge/FTP/SFTP-FF6600?style=flat&logo=files&logoColor=white" height="28" title="FTP/SFTP"/>
   <img src="https://img.shields.io/badge/DNS-1E88E5?style=flat&logo=cloudflare&logoColor=white" height="28" title="DNS"/>
   <img src="https://img.shields.io/badge/DHCP-43A047?style=flat&logo=network&logoColor=white" height="28" title="DHCP"/>
-</p>
-
-<p align="center">
   <img src="https://img.shields.io/badge/WebSocket-010101?style=flat&logo=socketdotio&logoColor=white" height="28" title="WebSocket"/>
   <img src="https://img.shields.io/badge/VLESS-9C27B0?style=flat&logo=v2ray&logoColor=white" height="28" title="VLESS"/>
   <img src="https://img.shields.io/badge/VMess-673AB7?style=flat&logo=v2ray&logoColor=white" height="28" title="VMess"/>
