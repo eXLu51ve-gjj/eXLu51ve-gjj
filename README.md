@@ -43,6 +43,20 @@
   <img src="https://img.shields.io/badge/Tenda-0066CC?style=flat&logo=router&logoColor=white" height="28" title="Tenda"/>
 </p>
 
+**Сетевые протоколы и технологии:**
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="40" title="Nginx"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="40" title="Apache"/>
+  <img src="https://cdn.simpleicons.org/letsencrypt/003A70" width="40" title="Let's Encrypt"/>
+  <img src="https://cdn.simpleicons.org/cloudflare/F38020" width="40" title="Cloudflare"/>
+  <img src="https://cdn.simpleicons.org/openssh/000000" width="40" title="OpenSSH"/>
+  <img src="https://cdn.simpleicons.org/wireguard/88171A" width="40" title="WireGuard"/>
+  <img src="https://cdn.simpleicons.org/openvpn/EA7E20" width="40" title="OpenVPN"/>
+  <img src="https://img.shields.io/badge/HTTPS-005C84?style=flat&logo=https&logoColor=white" height="28" title="HTTPS"/>
+  <img src="https://img.shields.io/badge/SSL/TLS-721412?style=flat&logo=letsencrypt&logoColor=white" height="28" title="SSL/TLS"/>
+  <img src="https://img.shields.io/badge/FTP-0066CC?style=flat&logo=files&logoColor=white" height="28" title="FTP"/>
+</p>
+
 ---
 
 ## 💻 Языки программирования и инструменты:
