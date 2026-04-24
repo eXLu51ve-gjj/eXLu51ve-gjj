@@ -171,6 +171,10 @@
 
 ## <img src="https://img.shields.io/badge/Мои_проекты_и_достижения-FF6B6B?style=plastic" alt="Проекты" width="360"/>
 
+<img src="./GIF/Hacker.gif" width="300" alt="Hacker" />
+
+<br/>
+
 ### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="20"/> Game Development
 
 > **Cyberpunk 2087: Neon Uprising**  
@@ -205,10 +209,6 @@
 > Универсальное приложение для управления умным домом. Поддержка 50+ производителей IoT устройств. Stack: Flutter, MQTT, WebSocket, Firebase.
 
 ### <img src="https://cdn.simpleicons.org/shieldsdotio/E60000" width="20"/> Cybersecurity & Networking
-
-<img src="./GIF/Hacker.gif" width="300" alt="Hacker" />
-
-<br/>
 
 > **NetGuard Pro**  
 > Enterprise firewall и IDS/IPS система на базе pfSense и Suricata. Защита сетей для 200+ компаний.
