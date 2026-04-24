@@ -8,15 +8,11 @@
 
 ## 🌐 Свяжитесь со мной:
 
-<table style="border: none; border-collapse: collapse;">
-  <tr style="border: none;">
-    <td style="border: none; padding: 5px;"><a href="https://www.youtube.com/@eXLu51ve"><img src="https://cdn.simpleicons.org/youtube/FF0000" width="40"/></a></td>
-    <td style="border: none; padding: 5px;"><a href="https://www.instagram.com/exlu51ve_nml/"><img src="https://cdn.simpleicons.org/instagram/E4405F" width="40"/></a></td>
-    <td style="border: none; padding: 5px;"><a href="https://vk.com/exlu51ve"><img src="https://cdn.simpleicons.org/vk/0077FF" width="40"/></a></td>
-    <td style="border: none; padding: 5px;"><a href="https://discord.gg/yhzRXgxKS8"><img src="https://cdn.simpleicons.org/discord/5865F2" width="40"/></a></td>
-    <td style="border: none; padding: 5px;"><a href="https://github.com/eXLu51ve-gjj"><img src="https://cdn.simpleicons.org/github/181717" width="40"/></a></td>
-  </tr>
-</table>
+<a href="https://www.youtube.com/@eXLu51ve"><img src="https://cdn.simpleicons.org/youtube/FF0000" width="40"/></a>&nbsp;&nbsp;
+<a href="https://www.instagram.com/exlu51ve_nml/"><img src="https://cdn.simpleicons.org/instagram/E4405F" width="40"/></a>&nbsp;&nbsp;
+<a href="https://vk.com/exlu51ve"><img src="https://cdn.simpleicons.org/vk/0077FF" width="40"/></a>&nbsp;&nbsp;
+<a href="https://discord.gg/yhzRXgxKS8"><img src="https://cdn.simpleicons.org/discord/5865F2" width="40"/></a>&nbsp;&nbsp;
+<a href="https://github.com/eXLu51ve-gjj"><img src="https://cdn.simpleicons.org/github/181717" width="40"/></a>
 
 ---
 
