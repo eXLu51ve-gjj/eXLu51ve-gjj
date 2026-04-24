@@ -6,12 +6,13 @@
 
 ---
 
-## <img src="https://cdn.simpleicons.org/telegram/26A5E4" width="24"/> Свяжитесь со мной:
+## <img src="https://cdn.simpleicons.org/contacts/4285F4" width="24"/> Свяжитесь со мной:
 
 <a href="https://www.youtube.com/@eXLu51ve"><img src="https://cdn.simpleicons.org/youtube/FF0000" width="40"/></a>&nbsp;&nbsp;
 <a href="https://www.instagram.com/exlu51ve_nml/"><img src="https://cdn.simpleicons.org/instagram/E4405F" width="40"/></a>&nbsp;&nbsp;
 <a href="https://vk.com/exlu51ve"><img src="https://cdn.simpleicons.org/vk/0077FF" width="40"/></a>&nbsp;&nbsp;
-<a href="https://discord.gg/yhzRXgxKS8"><img src="https://cdn.simpleicons.org/discord/5865F2" width="40"/></a>
+<a href="https://discord.gg/yhzRXgxKS8"><img src="https://cdn.simpleicons.org/discord/5865F2" width="40"/></a>&nbsp;&nbsp;
+<a href="https://t.me/eXLu51ve"><img src="https://cdn.simpleicons.org/telegram/26A5E4" width="40"/></a>
 
 ---
 
@@ -210,8 +211,8 @@
 </p>
 
 **Достижения:**
-- <img src="https://cdn.simpleicons.org/trophy/FFD700" width="16"/> Winner - Global Game Jam 2024
-- <img src="https://cdn.simpleicons.org/medal/FFD700" width="16"/> 1st Place - International Hackathon "AI for Good" 2023
+- <img src="https://img.shields.io/badge/-Trophy-FFD700?style=flat&logo=trophy&logoColor=white" height="16"/> Winner - Global Game Jam 2024
+- <img src="https://img.shields.io/badge/-Medal-FFD700?style=flat&logo=medal&logoColor=white" height="16"/> 1st Place - International Hackathon "AI for Good" 2023
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="16"/> GitHub Arctic Code Vault Contributor
 - <img src="https://cdn.simpleicons.org/stackoverflow/F58025" width="16"/> Top 1% Developer на Stack Overflow (50K+ reputation)
 - <img src="https://cdn.simpleicons.org/microsoft/0078D4" width="16"/> Microsoft MVP (Most Valuable Professional) 2023-2024
@@ -348,7 +349,7 @@
 
 ---
 
-## <img src="https://cdn.simpleicons.org/trophy/FFD700" width="24"/> GitHub трофеи:
+## <img src="https://img.shields.io/badge/-Trophy-FFD700?style=flat&logo=trophy&logoColor=white" height="24"/> GitHub трофеи:
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=eXLu51ve-gjj&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies" />
@@ -364,7 +365,7 @@
 
 ---
 
-## <img src="https://cdn.simpleicons.org/quotes/9C27B0" width="24"/> Случайная цитата для разработчиков:
+## <img src="https://img.shields.io/badge/-Quote-9C27B0?style=flat&logo=quote&logoColor=white" height="24"/> Случайная цитата для разработчиков:
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
