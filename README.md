@@ -472,7 +472,7 @@ System uptime: 99.99% | Load average: 0.42, 0.38, 0.35
 ## <img src="https://img.shields.io/badge/Активность-FF6384?style=plastic" alt="Активность" width="180"/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=eXLu51ve-gjj&theme=react-dark&hide_border=true&bg_color=0D1117&color=A855F7&line=A855F7&point=FFFFFF" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=eXLu51ve-gjj&theme=react-dark&hide_border=true&area=true" alt="Activity Graph" />
 </div>
 
 <picture>
