@@ -511,16 +511,6 @@ System uptime: 99.99% | Load average: 0.42, 0.38, 0.35
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
-## <img src="https://img.shields.io/badge/Случайная_цитата_для_разработчиков-9C27B0?style=plastic" alt="Цитата" width="480"/>
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
-
 ## <img src="https://img.shields.io/badge/О_себе-000000?style=plastic" alt="О себе" width="140"/>
 
 ```typescript
