@@ -489,6 +489,16 @@ System uptime: 99.99% | Load average: 0.42, 0.38, 0.35
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
+## <img src="https://img.shields.io/badge/3D_Contribution_Graph-00D9FF?style=plastic" alt="3D Graph" width="300"/>
+
+<div align="center">
+  <img src="./profile-3d-contrib/profile-gitblock.svg" alt="3D Contribution Graph" />
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
+
 ## <img src="https://img.shields.io/badge/Случайная_цитата_для_разработчиков-9C27B0?style=plastic" alt="Цитата" width="480"/>
 
 <div align="center">
