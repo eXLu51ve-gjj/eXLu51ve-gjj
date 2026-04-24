@@ -189,206 +189,80 @@
 
 ### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="20"/> Game Development
 
-<table>
-<tr>
-<td>
-<b>Cyberpunk 2087: Neon Uprising</b><br>
-Масштабный open-world шутер на Unreal Engine 5 с RTX трассировкой лучей и DLSS 3.0. Более 500K строк C++ кода, процедурная генерация города, продвинутая AI система врагов. Проект получил награду "Best Indie Game 2024" на Game Developers Conference.
-</td>
-</tr>
-</table>
+> **Cyberpunk 2087: Neon Uprising**  
+> Масштабный open-world шутер на Unreal Engine 5 с RTX трассировкой лучей и DLSS 3.0. Более 500K строк C++ кода, процедурная генерация города, продвинутая AI система врагов. Проект получил награду "Best Indie Game 2024" на Game Developers Conference.
 
-<table>
-<tr>
-<td>
-<b>Project Nexus VR</b><br>
-VR-симулятор космических сражений на Unreal Engine 4. Реалистичная физика, поддержка мультиплеера до 64 игроков, интеграция с SteamVR и Oculus SDK. 200K+ загрузок в Steam.
-</td>
-</tr>
-</table>
+> **Project Nexus VR**  
+> VR-симулятор космических сражений на Unreal Engine 4. Реалистичная физика, поддержка мультиплеера до 64 игроков, интеграция с SteamVR и Oculus SDK. 200K+ загрузок в Steam.
 
-<table>
-<tr>
-<td>
-<b>Eternal Legends: Rise of Heroes</b><br>
-MMORPG на Unity с серверной частью на Node.js и PostgreSQL. Поддержка 10K+ одновременных игроков, кроссплатформенность (PC, Mobile, Console).
-</td>
-</tr>
-</table>
+> **Eternal Legends: Rise of Heroes**  
+> MMORPG на Unity с серверной частью на Node.js и PostgreSQL. Поддержка 10K+ одновременных игроков, кроссплатформенность (PC, Mobile, Console).
 
 ### <img src="https://cdn.simpleicons.org/googlechrome/4285F4" width="20"/> Enterprise Web Solutions
 
-<table>
-<tr>
-<td>
-<b>CloudSync Enterprise</b><br>
-Корпоративная платформа для синхронизации данных между облачными сервисами (AWS, Azure, GCP). Обрабатывает 10M+ запросов в день. Stack: Next.js, TypeScript, Kubernetes, Redis, PostgreSQL.
-</td>
-</tr>
-</table>
+> **CloudSync Enterprise**  
+> Корпоративная платформа для синхронизации данных между облачными сервисами (AWS, Azure, GCP). Обрабатывает 10M+ запросов в день. Stack: Next.js, TypeScript, Kubernetes, Redis, PostgreSQL.
 
-<table>
-<tr>
-<td>
-<b>SecureVault Pro</b><br>
-Система управления паролями и секретами для enterprise с end-to-end шифрованием. Используется в 500+ компаниях. Stack: React, FastAPI, MongoDB, Docker.
-</td>
-</tr>
-</table>
+> **SecureVault Pro**  
+> Система управления паролями и секретами для enterprise с end-to-end шифрованием. Используется в 500+ компаниях. Stack: React, FastAPI, MongoDB, Docker.
 
-<table>
-<tr>
-<td>
-<b>AnalyticsPro Dashboard</b><br>
-Real-time аналитическая платформа с AI-powered insights. Обработка 1TB+ данных в день. Stack: Vue.js, Python, Apache Kafka, ClickHouse, Grafana.
-</td>
-</tr>
-</table>
+> **AnalyticsPro Dashboard**  
+> Real-time аналитическая платформа с AI-powered insights. Обработка 1TB+ данных в день. Stack: Vue.js, Python, Apache Kafka, ClickHouse, Grafana.
 
 ### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="20"/> Mobile Applications
 
-<table>
-<tr>
-<td>
-<b>FitTrack AI</b><br>
-Фитнес-приложение с AI тренером на Flutter. 1M+ установок в Google Play и App Store. Интеграция с Apple Health, Google Fit, носимыми устройствами.
-</td>
-</tr>
-</table>
+> **FitTrack AI**  
+> Фитнес-приложение с AI тренером на Flutter. 1M+ установок в Google Play и App Store. Интеграция с Apple Health, Google Fit, носимыми устройствами.
 
-<table>
-<tr>
-<td>
-<b>CryptoWallet Secure</b><br>
-Мультивалютный криптокошелек с поддержкой 100+ криптовалют. Биометрическая аутентификация, hardware wallet integration. Stack: React Native, Kotlin, Swift.
-</td>
-</tr>
-</table>
+> **CryptoWallet Secure**  
+> Мультивалютный криптокошелек с поддержкой 100+ криптовалют. Биометрическая аутентификация, hardware wallet integration. Stack: React Native, Kotlin, Swift.
 
-<table>
-<tr>
-<td>
-<b>SmartHome Controller</b><br>
-Универсальное приложение для управления умным домом. Поддержка 50+ производителей IoT устройств. Stack: Flutter, MQTT, WebSocket, Firebase.
-</td>
-</tr>
-</table>
+> **SmartHome Controller**  
+> Универсальное приложение для управления умным домом. Поддержка 50+ производителей IoT устройств. Stack: Flutter, MQTT, WebSocket, Firebase.
 
 ### <img src="https://cdn.simpleicons.org/shieldsdotio/E60000" width="20"/> Cybersecurity & Networking
 
-<table>
-<tr>
-<td>
-<b>NetGuard Pro</b><br>
-Enterprise firewall и IDS/IPS система на базе pfSense и Suricata. Защита сетей для 200+ компаний.
-</td>
-</tr>
-</table>
+> **NetGuard Pro**  
+> Enterprise firewall и IDS/IPS система на базе pfSense и Suricata. Защита сетей для 200+ компаний.
 
-<table>
-<tr>
-<td>
-<b>VPN Mesh Network</b><br>
-Распределенная VPN сеть на WireGuard с автоматическим failover. Поддержка 50K+ одновременных подключений.
-</td>
-</tr>
-</table>
+> **VPN Mesh Network**  
+> Распределенная VPN сеть на WireGuard с автоматическим failover. Поддержка 50K+ одновременных подключений.
 
-<table>
-<tr>
-<td>
-<b>PenTest Toolkit Advanced</b><br>
-Комплексный набор инструментов для пентестинга. Автоматизация сканирования уязвимостей, эксплуатация, post-exploitation. Stack: Python, C++, Bash.
-</td>
-</tr>
-</table>
+> **PenTest Toolkit Advanced**  
+> Комплексный набор инструментов для пентестинга. Автоматизация сканирования уязвимостей, эксплуатация, post-exploitation. Stack: Python, C++, Bash.
 
 ### <img src="https://cdn.simpleicons.org/tensorflow/FF6F00" width="20"/> AI & Machine Learning
 
-<table>
-<tr>
-<td>
-<b>DeepVision AI</b><br>
-Система компьютерного зрения для распознавания объектов в реальном времени. Точность 98.5%. Stack: Python, TensorFlow, CUDA, OpenCV.
-</td>
-</tr>
-</table>
+> **DeepVision AI**  
+> Система компьютерного зрения для распознавания объектов в реальном времени. Точность 98.5%. Stack: Python, TensorFlow, CUDA, OpenCV.
 
-<table>
-<tr>
-<td>
-<b>ChatBot Enterprise</b><br>
-AI-powered чат-бот для customer support с NLP. Обрабатывает 100K+ запросов в день. Stack: Python, PyTorch, FastAPI, Redis.
-</td>
-</tr>
-</table>
+> **ChatBot Enterprise**  
+> AI-powered чат-бот для customer support с NLP. Обрабатывает 100K+ запросов в день. Stack: Python, PyTorch, FastAPI, Redis.
 
-<table>
-<tr>
-<td>
-<b>PredictiveAnalytics Engine</b><br>
-ML-платформа для предсказательной аналитики в финтехе. Stack: Python, Scikit-learn, Apache Spark, Kubernetes.
-</td>
-</tr>
-</table>
+> **PredictiveAnalytics Engine**  
+> ML-платформа для предсказательной аналитики в финтехе. Stack: Python, Scikit-learn, Apache Spark, Kubernetes.
 
 ### <img src="https://cdn.simpleicons.org/icloud/3693F3" width="20"/> Cloud & DevOps
 
-<table>
-<tr>
-<td>
-<b>AutoDeploy CI/CD</b><br>
-Автоматизированная система CI/CD с поддержкой multi-cloud (AWS, Azure, GCP). Более 1000 деплоев в день.
-</td>
-</tr>
-</table>
+> **AutoDeploy CI/CD**  
+> Автоматизированная система CI/CD с поддержкой multi-cloud (AWS, Azure, GCP). Более 1000 деплоев в день.
 
-<table>
-<tr>
-<td>
-<b>InfraMonitor 360</b><br>
-Комплексная система мониторинга инфраструктуры. Stack: Prometheus, Grafana, Elasticsearch, Kubernetes.
-</td>
-</tr>
-</table>
+> **InfraMonitor 360**  
+> Комплексная система мониторинга инфраструктуры. Stack: Prometheus, Grafana, Elasticsearch, Kubernetes.
 
-<table>
-<tr>
-<td>
-<b>CloudCost Optimizer</b><br>
-AI-powered оптимизация расходов на облачную инфраструктуру. Экономия до 40% бюджета. Stack: Python, Terraform, AWS SDK.
-</td>
-</tr>
-</table>
+> **CloudCost Optimizer**  
+> AI-powered оптимизация расходов на облачную инфраструктуру. Экономия до 40% бюджета. Stack: Python, Terraform, AWS SDK.
 
 ### <img src="https://cdn.simpleicons.org/target/CC0000" width="20"/> Open Source Contributions
 
-<table>
-<tr>
-<td>
-<b>Контрибьюции</b><br>
-Контрибьютор в <b>Kubernetes</b>, <b>Docker</b>, <b>React</b>, <b>Vue.js</b>
-</td>
-</tr>
-</table>
+> **Контрибьюции**  
+> Контрибьютор в **Kubernetes**, **Docker**, **React**, **Vue.js**
 
-<table>
-<tr>
-<td>
-<b>Мейнтейнер</b><br>
-15+ популярных open-source проектов на GitHub
-</td>
-</tr>
-</table>
+> **Мейнтейнер**  
+> 15+ популярных open-source проектов на GitHub
 
-<table>
-<tr>
-<td>
-<b>Популярность</b><br>
-5000+ stars на личных репозиториях
-</td>
-</tr>
-</table>
+> **Популярность**  
+> 5000+ stars на личных репозиториях
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
