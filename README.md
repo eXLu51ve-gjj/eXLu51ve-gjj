@@ -1,4 +1,7 @@
-# <img src="https://cdn.simpleicons.org/github/181717" width="32"/> Привет! Я Тимур (eXLu51ve)
+<div align="center">
+  <img src="./logo5.jpg" alt="eXLu51ve Logo" width="200" style="border-radius: 20px;"/>
+  <h1>eXLu51ve</h1>
+</div>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=940&lines=Full+Stack+Developer;Mobile+App+Developer;Open+Source+Enthusiast" alt="Typing SVG" />
