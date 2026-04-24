@@ -357,6 +357,12 @@
 
 ## <img src="https://img.shields.io/badge/Мой_Setup-FF6B6B?style=plastic" alt="Setup" width="180"/>
 
+<div align="center">
+  <img src="./GIF/code.gif" width="100%" alt="Coding Animation" />
+</div>
+
+<br/>
+
 ```bash
 # ============================================
 #  💻 HARDWARE SPECIFICATIONS
@@ -503,7 +509,6 @@ System uptime: 99.99% | Load average: 0.42, 0.38, 0.35
 
 <div align="center">
   <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" />
-
 </div>
 
 <div align="center">
