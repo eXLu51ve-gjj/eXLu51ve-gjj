@@ -206,7 +206,7 @@
 ### <img src="https://cdn.simpleicons.org/shieldsdotio/E60000" width="20"/> Cybersecurity & Networking
 
 <div align="center">
-  <img src="./GIF/hacker.gif" width="300" alt="Hacker" />
+  <img src="./GIF/Hacker.gif" width="300" alt="Hacker" />
 </div>
 
 <br/>
@@ -260,7 +260,7 @@
 ## <img src="https://img.shields.io/badge/Сертификаты_и_достижения-FFD700?style=plastic" alt="Сертификаты" width="360"/>
 
 <div align="center">
-  <img src="./GIF/innovation.gif" width="300" alt="Innovation" />
+  <img src="./GIF/Innovation.gif" width="300" alt="Innovation" />
 </div>
 
 <br/>
