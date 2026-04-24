@@ -11,14 +11,51 @@
 <a href="https://www.youtube.com/@eXLu51ve"><img src="https://cdn.simpleicons.org/youtube/FF0000" width="40"/></a>&nbsp;&nbsp;
 <a href="https://www.instagram.com/exlu51ve_nml/"><img src="https://cdn.simpleicons.org/instagram/E4405F" width="40"/></a>&nbsp;&nbsp;
 <a href="https://vk.com/exlu51ve"><img src="https://cdn.simpleicons.org/vk/0077FF" width="40"/></a>&nbsp;&nbsp;
-<a href="https://discord.gg/yhzRXgxKS8"><img src="https://cdn.simpleicons.org/discord/5865F2" width="40"/></a>&nbsp;&nbsp;
-<a href="https://github.com/eXLu51ve-gjj"><img src="https://cdn.simpleicons.org/github/181717" width="40"/></a>
+<a href="https://discord.gg/yhzRXgxKS8"><img src="https://cdn.simpleicons.org/discord/5865F2" width="40"/></a>
 
 ---
 
 ## 💻 Языки программирования и инструменты:
 
-![Tech Stack](https://skillicons.dev/icons?i=vscode,html,css,sass,js,ts,react,redux,nextjs,nuxtjs,vue,nodejs,express,py,fastapi,flutter,dart,kotlin,androidstudio,postgres,mysql,sqlite,mongodb,prisma,supabase,docker,kubernetes,git,github,bash,powershell,postman,figma,npm,yarn,webpack,vite&theme=dark&perline=16)
+<p align="center">
+  <img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" width="48" title="VS Code"/>
+  <img src="https://cdn.simpleicons.org/html5/E34F26" width="48" title="HTML5"/>
+  <img src="https://cdn.simpleicons.org/css3/1572B6" width="48" title="CSS3"/>
+  <img src="https://cdn.simpleicons.org/sass/CC6699" width="48" title="Sass"/>
+  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="48" title="JavaScript"/>
+  <img src="https://cdn.simpleicons.org/typescript/3178C6" width="48" title="TypeScript"/>
+  <img src="https://cdn.simpleicons.org/react/61DAFB" width="48" title="React"/>
+  <img src="https://cdn.simpleicons.org/redux/764ABC" width="48" title="Redux"/>
+  <img src="https://cdn.simpleicons.org/nextdotjs/000000" width="48" title="Next.js"/>
+  <img src="https://cdn.simpleicons.org/nuxtdotjs/00DC82" width="48" title="Nuxt.js"/>
+  <img src="https://cdn.simpleicons.org/vuedotjs/4FC08D" width="48" title="Vue.js"/>
+  <img src="https://cdn.simpleicons.org/nodedotjs/339933" width="48" title="Node.js"/>
+  <img src="https://cdn.simpleicons.org/express/000000" width="48" title="Express"/>
+  <img src="https://cdn.simpleicons.org/python/3776AB" width="48" title="Python"/>
+  <img src="https://cdn.simpleicons.org/fastapi/009688" width="48" title="FastAPI"/>
+  <img src="https://cdn.simpleicons.org/flutter/02569B" width="48" title="Flutter"/>
+  <img src="https://cdn.simpleicons.org/dart/0175C2" width="48" title="Dart"/>
+  <img src="https://cdn.simpleicons.org/kotlin/7F52FF" width="48" title="Kotlin"/>
+  <img src="https://cdn.simpleicons.org/androidstudio/3DDC84" width="48" title="Android Studio"/>
+  <img src="https://cdn.simpleicons.org/postgresql/4169E1" width="48" title="PostgreSQL"/>
+  <img src="https://cdn.simpleicons.org/mysql/4479A1" width="48" title="MySQL"/>
+  <img src="https://cdn.simpleicons.org/sqlite/003B57" width="48" title="SQLite"/>
+  <img src="https://cdn.simpleicons.org/mongodb/47A248" width="48" title="MongoDB"/>
+  <img src="https://cdn.simpleicons.org/prisma/2D3748" width="48" title="Prisma"/>
+  <img src="https://cdn.simpleicons.org/supabase/3FCF8E" width="48" title="Supabase"/>
+  <img src="https://cdn.simpleicons.org/docker/2496ED" width="48" title="Docker"/>
+  <img src="https://cdn.simpleicons.org/kubernetes/326CE5" width="48" title="Kubernetes"/>
+  <img src="https://cdn.simpleicons.org/git/F05032" width="48" title="Git"/>
+  <img src="https://cdn.simpleicons.org/github/181717" width="48" title="GitHub"/>
+  <img src="https://cdn.simpleicons.org/gnubash/4EAA25" width="48" title="Bash"/>
+  <img src="https://cdn.simpleicons.org/powershell/5391FE" width="48" title="PowerShell"/>
+  <img src="https://cdn.simpleicons.org/postman/FF6C37" width="48" title="Postman"/>
+  <img src="https://cdn.simpleicons.org/figma/F24E1E" width="48" title="Figma"/>
+  <img src="https://cdn.simpleicons.org/npm/CB3837" width="48" title="npm"/>
+  <img src="https://cdn.simpleicons.org/yarn/2C8EBB" width="48" title="Yarn"/>
+  <img src="https://cdn.simpleicons.org/webpack/8DD6F9" width="48" title="Webpack"/>
+  <img src="https://cdn.simpleicons.org/vite/646CFF" width="48" title="Vite"/>
+</p>
 
 ---
 
@@ -111,11 +148,44 @@ const timur = {
 
 ## 🔥 Мой стек:
 
-<div align="center">
-  
-![Tech Stack](https://skillicons.dev/icons?i=js,ts,react,nextjs,nuxtjs,vue,nodejs,express,py,fastapi,kotlin,flutter,dart,html,css,sass,postgres,mysql,sqlite,mongodb,prisma,supabase,docker,kubernetes,git,github,vscode,androidstudio,postman,figma,npm,yarn,webpack,vite,bash,powershell&theme=dark&perline=18)
-
-</div>
+<p align="center">
+  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="48" title="JavaScript"/>
+  <img src="https://cdn.simpleicons.org/typescript/3178C6" width="48" title="TypeScript"/>
+  <img src="https://cdn.simpleicons.org/react/61DAFB" width="48" title="React"/>
+  <img src="https://cdn.simpleicons.org/nextdotjs/000000" width="48" title="Next.js"/>
+  <img src="https://cdn.simpleicons.org/nuxtdotjs/00DC82" width="48" title="Nuxt.js"/>
+  <img src="https://cdn.simpleicons.org/vuedotjs/4FC08D" width="48" title="Vue.js"/>
+  <img src="https://cdn.simpleicons.org/nodedotjs/339933" width="48" title="Node.js"/>
+  <img src="https://cdn.simpleicons.org/express/000000" width="48" title="Express"/>
+  <img src="https://cdn.simpleicons.org/python/3776AB" width="48" title="Python"/>
+  <img src="https://cdn.simpleicons.org/fastapi/009688" width="48" title="FastAPI"/>
+  <img src="https://cdn.simpleicons.org/kotlin/7F52FF" width="48" title="Kotlin"/>
+  <img src="https://cdn.simpleicons.org/flutter/02569B" width="48" title="Flutter"/>
+  <img src="https://cdn.simpleicons.org/dart/0175C2" width="48" title="Dart"/>
+  <img src="https://cdn.simpleicons.org/html5/E34F26" width="48" title="HTML5"/>
+  <img src="https://cdn.simpleicons.org/css3/1572B6" width="48" title="CSS3"/>
+  <img src="https://cdn.simpleicons.org/sass/CC6699" width="48" title="Sass"/>
+  <img src="https://cdn.simpleicons.org/postgresql/4169E1" width="48" title="PostgreSQL"/>
+  <img src="https://cdn.simpleicons.org/mysql/4479A1" width="48" title="MySQL"/>
+  <img src="https://cdn.simpleicons.org/sqlite/003B57" width="48" title="SQLite"/>
+  <img src="https://cdn.simpleicons.org/mongodb/47A248" width="48" title="MongoDB"/>
+  <img src="https://cdn.simpleicons.org/prisma/2D3748" width="48" title="Prisma"/>
+  <img src="https://cdn.simpleicons.org/supabase/3FCF8E" width="48" title="Supabase"/>
+  <img src="https://cdn.simpleicons.org/docker/2496ED" width="48" title="Docker"/>
+  <img src="https://cdn.simpleicons.org/kubernetes/326CE5" width="48" title="Kubernetes"/>
+  <img src="https://cdn.simpleicons.org/git/F05032" width="48" title="Git"/>
+  <img src="https://cdn.simpleicons.org/github/181717" width="48" title="GitHub"/>
+  <img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" width="48" title="VS Code"/>
+  <img src="https://cdn.simpleicons.org/androidstudio/3DDC84" width="48" title="Android Studio"/>
+  <img src="https://cdn.simpleicons.org/postman/FF6C37" width="48" title="Postman"/>
+  <img src="https://cdn.simpleicons.org/figma/F24E1E" width="48" title="Figma"/>
+  <img src="https://cdn.simpleicons.org/npm/CB3837" width="48" title="npm"/>
+  <img src="https://cdn.simpleicons.org/yarn/2C8EBB" width="48" title="Yarn"/>
+  <img src="https://cdn.simpleicons.org/webpack/8DD6F9" width="48" title="Webpack"/>
+  <img src="https://cdn.simpleicons.org/vite/646CFF" width="48" title="Vite"/>
+  <img src="https://cdn.simpleicons.org/gnubash/4EAA25" width="48" title="Bash"/>
+  <img src="https://cdn.simpleicons.org/powershell/5391FE" width="48" title="PowerShell"/>
+</p>
 
 ---
 
