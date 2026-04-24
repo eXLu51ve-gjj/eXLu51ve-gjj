@@ -15,6 +15,26 @@
 
 ---
 
+## 🖥️ Операционные системы и сетевое оборудование:
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows11/windows11-original.svg" width="40" title="Windows 11"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="40" title="Windows 10/8"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" title="Linux"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" width="40" title="Ubuntu"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" width="40" title="Debian"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/centos/centos-original.svg" width="40" title="CentOS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-original.svg" width="40" title="Fedora"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="40" title="Android"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" width="40" title="macOS/iOS"/>
+  <img src="https://cdn.simpleicons.org/mikrotik/293239" width="40" title="MikroTik"/>
+  <img src="https://cdn.simpleicons.org/openwrt/00B5E2" width="40" title="OpenWrt"/>
+  <img src="https://cdn.simpleicons.org/cisco/1BA0D7" width="40" title="Cisco"/>
+  <img src="https://cdn.simpleicons.org/ubiquiti/0559C9" width="40" title="Ubiquiti"/>
+</p>
+
+---
+
 ## 💻 Языки программирования и инструменты:
 
 <p align="center">
