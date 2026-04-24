@@ -27,10 +27,20 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-original.svg" width="40" title="Fedora"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="40" title="Android"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" width="40" title="macOS/iOS"/>
+</p>
+
+**Сетевое оборудование:**
+<p align="center">
   <img src="https://cdn.simpleicons.org/mikrotik/293239" width="40" title="MikroTik"/>
-  <img src="https://cdn.simpleicons.org/openwrt/00B5E2" width="40" title="OpenWrt"/>
   <img src="https://cdn.simpleicons.org/cisco/1BA0D7" width="40" title="Cisco"/>
   <img src="https://cdn.simpleicons.org/ubiquiti/0559C9" width="40" title="Ubiquiti"/>
+  <img src="https://cdn.simpleicons.org/openwrt/00B5E2" width="40" title="OpenWrt"/>
+  <img src="https://img.shields.io/badge/Keenetic-0078D4?style=flat&logo=router&logoColor=white" height="28" title="Keenetic"/>
+  <img src="https://img.shields.io/badge/ZyXEL-E60000?style=flat&logo=router&logoColor=white" height="28" title="ZyXEL"/>
+  <img src="https://img.shields.io/badge/TP--Link-00A7E1?style=flat&logo=router&logoColor=white" height="28" title="TP-Link"/>
+  <img src="https://img.shields.io/badge/Netgear-000000?style=flat&logo=router&logoColor=white" height="28" title="Netgear"/>
+  <img src="https://img.shields.io/badge/ASUS-000000?style=flat&logo=asus&logoColor=white" height="28" title="ASUS"/>
+  <img src="https://img.shields.io/badge/Tenda-0066CC?style=flat&logo=router&logoColor=white" height="28" title="Tenda"/>
 </p>
 
 ---
