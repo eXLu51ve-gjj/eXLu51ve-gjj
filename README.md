@@ -189,9 +189,6 @@
 
 ### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="20"/> Game Development
 
-<details>
-<summary>📂 Развернуть проекты</summary>
-
 > **Cyberpunk 2087: Neon Uprising**  
 > Масштабный open-world шутер на Unreal Engine 5 с RTX трассировкой лучей и DLSS 3.0. Более 500K строк C++ кода, процедурная генерация города, продвинутая AI система врагов. Проект получил награду "Best Indie Game 2024" на Game Developers Conference.
 
@@ -201,12 +198,7 @@
 > **Eternal Legends: Rise of Heroes**  
 > MMORPG на Unity с серверной частью на Node.js и PostgreSQL. Поддержка 10K+ одновременных игроков, кроссплатформенность (PC, Mobile, Console).
 
-</details>
-
 ### <img src="https://cdn.simpleicons.org/googlechrome/4285F4" width="20"/> Enterprise Web Solutions
-
-<details>
-<summary>📂 Развернуть проекты</summary>
 
 > **CloudSync Enterprise**  
 > Корпоративная платформа для синхронизации данных между облачными сервисами (AWS, Azure, GCP). Обрабатывает 10M+ запросов в день. Stack: Next.js, TypeScript, Kubernetes, Redis, PostgreSQL.
@@ -217,12 +209,7 @@
 > **AnalyticsPro Dashboard**  
 > Real-time аналитическая платформа с AI-powered insights. Обработка 1TB+ данных в день. Stack: Vue.js, Python, Apache Kafka, ClickHouse, Grafana.
 
-</details>
-
 ### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="20"/> Mobile Applications
-
-<details>
-<summary>📂 Развернуть проекты</summary>
 
 > **FitTrack AI**  
 > Фитнес-приложение с AI тренером на Flutter. 1M+ установок в Google Play и App Store. Интеграция с Apple Health, Google Fit, носимыми устройствами.
@@ -233,12 +220,7 @@
 > **SmartHome Controller**  
 > Универсальное приложение для управления умным домом. Поддержка 50+ производителей IoT устройств. Stack: Flutter, MQTT, WebSocket, Firebase.
 
-</details>
-
 ### <img src="https://cdn.simpleicons.org/shieldsdotio/E60000" width="20"/> Cybersecurity & Networking
-
-<details>
-<summary>📂 Развернуть проекты</summary>
 
 > **NetGuard Pro**  
 > Enterprise firewall и IDS/IPS система на базе pfSense и Suricata. Защита сетей для 200+ компаний.
@@ -249,12 +231,7 @@
 > **PenTest Toolkit Advanced**  
 > Комплексный набор инструментов для пентестинга. Автоматизация сканирования уязвимостей, эксплуатация, post-exploitation. Stack: Python, C++, Bash.
 
-</details>
-
 ### <img src="https://cdn.simpleicons.org/tensorflow/FF6F00" width="20"/> AI & Machine Learning
-
-<details>
-<summary>📂 Развернуть проекты</summary>
 
 > **DeepVision AI**  
 > Система компьютерного зрения для распознавания объектов в реальном времени. Точность 98.5%. Stack: Python, TensorFlow, CUDA, OpenCV.
@@ -265,12 +242,7 @@
 > **PredictiveAnalytics Engine**  
 > ML-платформа для предсказательной аналитики в финтехе. Stack: Python, Scikit-learn, Apache Spark, Kubernetes.
 
-</details>
-
 ### <img src="https://cdn.simpleicons.org/icloud/3693F3" width="20"/> Cloud & DevOps
-
-<details>
-<summary>📂 Развернуть проекты</summary>
 
 > **AutoDeploy CI/CD**  
 > Автоматизированная система CI/CD с поддержкой multi-cloud (AWS, Azure, GCP). Более 1000 деплоев в день.
@@ -281,12 +253,7 @@
 > **CloudCost Optimizer**  
 > AI-powered оптимизация расходов на облачную инфраструктуру. Экономия до 40% бюджета. Stack: Python, Terraform, AWS SDK.
 
-</details>
-
 ### <img src="https://cdn.simpleicons.org/target/CC0000" width="20"/> Open Source Contributions
-
-<details>
-<summary>📂 Развернуть достижения</summary>
 
 > **Контрибьюции**  
 > Контрибьютор в **Kubernetes**, **Docker**, **React**, **Vue.js**
@@ -296,8 +263,6 @@
 
 > **Популярность**  
 > 5000+ stars на личных репозиториях
-
-</details>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
@@ -573,7 +538,7 @@ const timur = {
 </div>
 
 <div align="center">
-  <h3><img src="https://img.shields.io/badge/⭐_Не_забудьте_поставить_звезду_моим_проектам!-FFD700?style=plastic" alt="Звезда" width="560"/></h3>
+  <h3><img src="https://img.shields.io/badge/⭐_Не_забудьте_поставить_звезду_моим_проектам_⭐-FFD700?style=plastic" alt="Звезда" width="560"/></h3>
 </div>
 
 <div align="center">
