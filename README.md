@@ -6,7 +6,7 @@
 
 ---
 
-## <img src="https://img.shields.io/badge/Свяжитесь_со_мной-4285F4?style=plastic" alt="Контакты" height="40"/>
+## <img src="https://img.shields.io/badge/Свяжитесь_со_мной-4285F4?style=plastic" alt="Контакты" width="280"/>
 
 <a href="https://www.youtube.com/@eXLu51ve"><img src="https://cdn.simpleicons.org/youtube/FF0000" width="40"/></a>&nbsp;&nbsp;
 <a href="https://www.instagram.com/exlu51ve_nml/"><img src="https://cdn.simpleicons.org/instagram/E4405F" width="40"/></a>&nbsp;&nbsp;
@@ -16,7 +16,7 @@
 
 ---
 
-## <img src="https://img.shields.io/badge/Операционные_системы_и_сетевое_оборудование-0078D4?style=plastic" alt="ОС и сеть" height="40"/>
+## <img src="https://img.shields.io/badge/Операционные_системы_и_сетевое_оборудование-0078D4?style=plastic" alt="ОС и сеть" width="520"/>
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows11/windows11-original.svg" width="40" title="Windows 11"/>
@@ -107,7 +107,7 @@
 
 ---
 
-## <img src="https://img.shields.io/badge/Языки_программирования_и_инструменты-A855F7?style=plastic" alt="Технологии" height="40"/>
+## <img src="https://img.shields.io/badge/Языки_программирования_и_инструменты-A855F7?style=plastic" alt="Технологии" width="480"/>
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" title="C"/>
@@ -158,7 +158,7 @@
 
 ---
 
-## <img src="https://img.shields.io/badge/Мои_проекты_и_достижения-FF6B6B?style=plastic" alt="Проекты" height="40"/>
+## <img src="https://img.shields.io/badge/Мои_проекты_и_достижения-FF6B6B?style=plastic" alt="Проекты" width="360"/>
 
 ### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="20"/> Game Development
 - **Cyberpunk 2087: Neon Uprising** - Масштабный open-world шутер на Unreal Engine 5 с RTX трассировкой лучей и DLSS 3.0. Более 500K строк C++ кода, процедурная генерация города, продвинутая AI система врагов. Проект получил награду "Best Indie Game 2024" на Game Developers Conference.
@@ -197,7 +197,7 @@
 
 ---
 
-## <img src="https://img.shields.io/badge/Сертификаты_и_достижения-FFD700?style=plastic" alt="Сертификаты" height="40"/>
+## <img src="https://img.shields.io/badge/Сертификаты_и_достижения-FFD700?style=plastic" alt="Сертификаты" width="360"/>
 
 <p align="center">
   <img src="https://img.shields.io/badge/AWS_Certified-Solutions_Architect-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" title="AWS Solutions Architect"/>
@@ -220,7 +220,7 @@
 
 ---
 
-## <img src="https://img.shields.io/badge/Сейчас_изучаю-0288D1?style=plastic" alt="Обучение" height="40"/>
+## <img src="https://img.shields.io/badge/Сейчас_изучаю-0288D1?style=plastic" alt="Обучение" width="220"/>
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="40" title="Go"/>
@@ -242,7 +242,7 @@
 
 ---
 
-## <img src="https://img.shields.io/badge/Опыт_работы-795548?style=plastic" alt="Карьера" height="40"/>
+## <img src="https://img.shields.io/badge/Опыт_работы-795548?style=plastic" alt="Карьера" width="200"/>
 
 **Senior Full Stack Developer** @ TechCorp International  
 *2022 - Present*
@@ -264,7 +264,7 @@
 
 ---
 
-## <img src="https://img.shields.io/badge/Цели_на_2026-CC0000?style=plastic" alt="Цели" height="40"/>
+## <img src="https://img.shields.io/badge/Цели_на_2026-CC0000?style=plastic" alt="Цели" width="200"/>
 
 - [ ] Выпустить коммерческую игру на Unreal Engine 5
 - [ ] Получить сертификацию OSCP (Offensive Security Certified Professional)
@@ -276,7 +276,7 @@
 
 ---
 
-## <img src="https://img.shields.io/badge/Мой_Setup-FF6B6B?style=plastic" alt="Setup" height="40"/>
+## <img src="https://img.shields.io/badge/Мой_Setup-FF6B6B?style=plastic" alt="Setup" width="180"/>
 
 **<img src="https://cdn.simpleicons.org/nvidia/76B900" width="16"/> Hardware:**
 - CPU: AMD Ryzen 9 7950X (16 cores, 32 threads)
@@ -301,7 +301,7 @@
 
 ---
 
-## <img src="https://img.shields.io/badge/Coding_Stats-FF6384?style=plastic" alt="Статистика" height="40"/>
+## <img src="https://img.shields.io/badge/Coding_Stats-FF6384?style=plastic" alt="Статистика" width="200"/>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=eXLu51ve&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=FFFFFF" alt="WakaTime Stats" />
@@ -316,7 +316,7 @@
 
 ---
 
-## <img src="https://img.shields.io/badge/Хобби_и_интересы-000000?style=plastic" alt="Хобби" height="40"/>
+## <img src="https://img.shields.io/badge/Хобби_и_интересы-000000?style=plastic" alt="Хобби" width="260"/>
 
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" width="16"/> **Game Development** - Создание игр на Unreal Engine и Unity
 - <img src="https://cdn.simpleicons.org/shieldsdotio/E60000" width="16"/> **Cybersecurity** - CTF соревнования, Bug Bounty hunting
@@ -329,11 +329,11 @@
 
 ---
 
-## <img src="https://img.shields.io/badge/Мои_проекты-A855F7?style=plastic" alt="Проекты" height="40"/>
+## <img src="https://img.shields.io/badge/Мои_проекты-A855F7?style=plastic" alt="Проекты" width="200"/>
 
 ---
 
-## <img src="https://img.shields.io/badge/GitHub_статистика-181717?style=plastic&logo=github&logoColor=white" alt="GitHub Stats" height="40"/>
+## <img src="https://img.shields.io/badge/GitHub_статистика-181717?style=plastic&logo=github&logoColor=white" alt="GitHub Stats" width="260"/>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=eXLu51ve-gjj&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=FFFFFF" alt="GitHub Stats" />
@@ -349,7 +349,7 @@
 
 ---
 
-## <img src="https://img.shields.io/badge/GitHub_трофеи-FFD700?style=plastic" alt="Трофеи" height="40"/>
+## <img src="https://img.shields.io/badge/GitHub_трофеи-FFD700?style=plastic" alt="Трофеи" width="220"/>
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=eXLu51ve-gjj&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies" />
@@ -357,7 +357,7 @@
 
 ---
 
-## <img src="https://img.shields.io/badge/Активность-FF6384?style=plastic" alt="Активность" height="40"/>
+## <img src="https://img.shields.io/badge/Активность-FF6384?style=plastic" alt="Активность" width="180"/>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=eXLu51ve-gjj&theme=react-dark&hide_border=true&bg_color=0D1117&color=A855F7&line=A855F7&point=FFFFFF" alt="Activity Graph" />
@@ -365,7 +365,7 @@
 
 ---
 
-## <img src="https://img.shields.io/badge/Случайная_цитата_для_разработчиков-9C27B0?style=plastic" alt="Цитата" height="40"/>
+## <img src="https://img.shields.io/badge/Случайная_цитата_для_разработчиков-9C27B0?style=plastic" alt="Цитата" width="480"/>
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
@@ -373,7 +373,7 @@
 
 ---
 
-## <img src="https://img.shields.io/badge/О_себе-000000?style=plastic" alt="О себе" height="40"/>
+## <img src="https://img.shields.io/badge/О_себе-000000?style=plastic" alt="О себе" width="140"/>
 
 ```typescript
 const timur = {
@@ -396,7 +396,7 @@ const timur = {
 
 ---
 
-## <img src="https://img.shields.io/badge/Мой_стек-FF6B6B?style=plastic" alt="Стек" height="40"/>
+## <img src="https://img.shields.io/badge/Мой_стек-FF6B6B?style=plastic" alt="Стек" width="160"/>
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" title="JavaScript"/>
@@ -449,7 +449,7 @@ const timur = {
 </div>
 
 <div align="center">
-  <h3><img src="https://img.shields.io/badge/⭐_Не_забудьте_поставить_звезду_моим_проектам!-FFD700?style=plastic" alt="Звезда" height="40"/></h3>
+  <h3><img src="https://img.shields.io/badge/⭐_Не_забудьте_поставить_звезду_моим_проектам!-FFD700?style=plastic" alt="Звезда" width="560"/></h3>
 </div>
 
 ---
