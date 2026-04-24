@@ -6,7 +6,7 @@
 
 ---
 
-## <img src="https://cdn.simpleicons.org/contacts/4285F4" width="24"/> Свяжитесь со мной:
+## <img src="https://img.shields.io/badge/-Contact-4285F4?style=flat&logo=mail&logoColor=white" height="24"/> Свяжитесь со мной:
 
 <a href="https://www.youtube.com/@eXLu51ve"><img src="https://cdn.simpleicons.org/youtube/FF0000" width="40"/></a>&nbsp;&nbsp;
 <a href="https://www.instagram.com/exlu51ve_nml/"><img src="https://cdn.simpleicons.org/instagram/E4405F" width="40"/></a>&nbsp;&nbsp;
@@ -215,7 +215,7 @@
 - <img src="https://img.shields.io/badge/-Medal-FFD700?style=flat&logo=medal&logoColor=white" height="16"/> 1st Place - International Hackathon "AI for Good" 2023
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="16"/> GitHub Arctic Code Vault Contributor
 - <img src="https://cdn.simpleicons.org/stackoverflow/F58025" width="16"/> Top 1% Developer на Stack Overflow (50K+ reputation)
-- <img src="https://cdn.simpleicons.org/microsoft/0078D4" width="16"/> Microsoft MVP (Most Valuable Professional) 2023-2024
+- <img src="https://cdn.simpleicons.org/microsoft/0078D4" width="16"/> **Microsoft MVP** (Most Valuable Professional) 2023-2024
 - <img src="https://cdn.simpleicons.org/google/4285F4" width="16"/> Google Developer Expert (GDE) in Web Technologies
 
 ---
@@ -242,7 +242,7 @@
 
 ---
 
-## <img src="https://cdn.simpleicons.org/briefcase/795548" width="24"/> Опыт работы:
+## <img src="https://img.shields.io/badge/-Work-795548?style=flat&logo=briefcase&logoColor=white" height="24"/> Опыт работы:
 
 **Senior Full Stack Developer** @ TechCorp International  
 *2022 - Present*
@@ -276,7 +276,7 @@
 
 ---
 
-## <img src="https://cdn.simpleicons.org/tools/FF6B6B" width="24"/> Мой Setup:
+## <img src="https://img.shields.io/badge/-Setup-FF6B6B?style=flat&logo=tools&logoColor=white" height="24"/> Мой Setup:
 
 **<img src="https://cdn.simpleicons.org/nvidia/76B900" width="16"/> Hardware:**
 - CPU: AMD Ryzen 9 7950X (16 cores, 32 threads)
