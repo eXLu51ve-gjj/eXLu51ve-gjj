@@ -205,6 +205,12 @@
 
 ### <img src="https://cdn.simpleicons.org/shieldsdotio/E60000" width="20"/> Cybersecurity & Networking
 
+<div align="center">
+  <img src="./GIF/hacker.gif" width="300" alt="Hacker" />
+</div>
+
+<br/>
+
 > **NetGuard Pro**  
 > Enterprise firewall и IDS/IPS система на базе pfSense и Suricata. Защита сетей для 200+ компаний.
 
@@ -252,6 +258,12 @@
 </div>
 
 ## <img src="https://img.shields.io/badge/Сертификаты_и_достижения-FFD700?style=plastic" alt="Сертификаты" width="360"/>
+
+<div align="center">
+  <img src="./GIF/innovation.gif" width="300" alt="Innovation" />
+</div>
+
+<br/>
 
 <p align="center">
   <img src="https://img.shields.io/badge/AWS_Certified-Solutions_Architect-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" title="AWS Solutions Architect"/>
@@ -301,6 +313,12 @@
 </div>
 
 ## <img src="https://img.shields.io/badge/Опыт_работы-795548?style=plastic" alt="Карьера" width="200"/>
+
+<div align="center">
+  <img src="./GIF/business-plan.gif" width="350" alt="Business" />
+</div>
+
+<br/>
 
 **Senior Full Stack Developer** @ TechCorp International  
 *2022 - Present*
@@ -393,6 +411,12 @@ System uptime: 99.99% | Load average: 0.42, 0.38, 0.35
 </div>
 
 ## <img src="https://img.shields.io/badge/Coding_Stats-FF6384?style=plastic" alt="Статистика" width="200"/>
+
+<div align="center">
+  <img src="./GIF/123.gif" width="400" alt="Analytics" />
+</div>
+
+<br/>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=eXLu51ve&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=FFFFFF" alt="WakaTime Stats" />
