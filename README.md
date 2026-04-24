@@ -1,9 +1,9 @@
-<table width="100%">
+<table width="100%" style="border: none;">
 <tr>
-<td width="200">
+<td width="200" style="border: none;">
   <img src="https://github.com/eXLu51ve-gjj/eXLu51ve-gjj/blob/main/logo5.jpg?raw=true" alt="eXLu51ve Logo" width="200"/>
 </td>
-<td align="center">
+<td align="center" style="border: none;">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
 </td>
 </tr>
