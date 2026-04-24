@@ -8,9 +8,7 @@
 
 ## 🌐 Свяжитесь со мной:
 
-<p align="left">
 <a href="https://www.youtube.com/@eXLu51ve" target="_blank"><img src="https://img.icons8.com/color/48/000000/youtube-play.png" alt="YouTube" width="40" height="40"/></a> <a href="https://www.instagram.com/exlu51ve_nml/" target="_blank"><img src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="Instagram" width="40" height="40"/></a> <a href="https://vk.com/exlu51ve" target="_blank"><img src="https://img.icons8.com/color/48/000000/vk-circled.png" alt="VK" width="40" height="40"/></a> <a href="https://github.com/eXLu51ve-gjj" target="_blank"><img src="https://img.icons8.com/color/48/000000/github--v1.png" alt="GitHub" width="40" height="40"/></a>
-</p>
 
 ---
 
