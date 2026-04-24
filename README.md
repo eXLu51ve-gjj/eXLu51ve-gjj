@@ -502,7 +502,8 @@ System uptime: 99.99% | Load average: 0.42, 0.38, 0.35
 ## <img src="https://img.shields.io/badge/3D_Contribution_Graph-00D9FF?style=plastic" alt="3D Graph" width="300"/>
 
 <div align="center">
-  <img src="./profile-3d-contrib/profile-gitblock.svg" alt="3D Contribution Graph" />
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" />
+
 </div>
 
 <div align="center">
