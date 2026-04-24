@@ -1,9 +1,13 @@
-<div>
-  <img align="left" src="https://github.com/eXLu51ve-gjj/eXLu51ve-gjj/blob/main/logo5.jpg?raw=true" alt="eXLu51ve Logo" width="200"/>
-  <img align="right" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
-</div>
-
-<br clear="both"/>
+<table width="100%">
+<tr>
+<td width="200" valign="top">
+  <img src="https://github.com/eXLu51ve-gjj/eXLu51ve-gjj/blob/main/logo5.jpg?raw=true" alt="eXLu51ve Logo" width="200" height="200"/>
+</td>
+<td valign="middle" align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" width="100%" height="200"/>
+</td>
+</tr>
+</table>
 
 <div align="center">
   <img src="./WEBP/samurai.webp" width="100%" alt="Samurai Animation" />
