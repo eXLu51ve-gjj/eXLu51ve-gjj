@@ -1,4 +1,4 @@
-# 👋 Привет! Я Тимур (eXLu51ve)
+# <img src="https://cdn.simpleicons.org/wavinghands/FFD700" width="32"/> Привет! Я Тимур (eXLu51ve)
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=940&lines=Full+Stack+Developer;Mobile+App+Developer;Open+Source+Enthusiast" alt="Typing SVG" />
@@ -6,7 +6,7 @@
 
 ---
 
-## 🌐 Свяжитесь со мной:
+## <img src="https://cdn.simpleicons.org/internetexplorer/1E88E5" width="24"/> Свяжитесь со мной:
 
 <a href="https://www.youtube.com/@eXLu51ve"><img src="https://cdn.simpleicons.org/youtube/FF0000" width="40"/></a>&nbsp;&nbsp;
 <a href="https://www.instagram.com/exlu51ve_nml/"><img src="https://cdn.simpleicons.org/instagram/E4405F" width="40"/></a>&nbsp;&nbsp;
@@ -15,7 +15,7 @@
 
 ---
 
-## 🖥️ Операционные системы и сетевое оборудование:
+## <img src="https://cdn.simpleicons.org/windows/0078D4" width="24"/> Операционные системы и сетевое оборудование:
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows11/windows11-original.svg" width="40" title="Windows 11"/>
@@ -106,7 +106,7 @@
 
 ---
 
-## 💻 Языки программирования и инструменты:
+## <img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" width="24"/> Языки программирования и инструменты:
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" title="C"/>
@@ -157,46 +157,46 @@
 
 ---
 
-## 🚀 Мои проекты и достижения:
+## <img src="https://cdn.simpleicons.org/rocket/FF6B6B" width="24"/> Мои проекты и достижения:
 
-### 🎮 Game Development
+### <img src="https://cdn.simpleicons.org/unity/000000" width="20"/> Game Development
 - **Cyberpunk 2087: Neon Uprising** - Масштабный open-world шутер на Unreal Engine 5 с RTX трассировкой лучей и DLSS 3.0. Более 500K строк C++ кода, процедурная генерация города, продвинутая AI система врагов. Проект получил награду "Best Indie Game 2024" на Game Developers Conference.
 - **Project Nexus VR** - VR-симулятор космических сражений на Unreal Engine 4. Реалистичная физика, поддержка мультиплеера до 64 игроков, интеграция с SteamVR и Oculus SDK. 200K+ загрузок в Steam.
 - **Eternal Legends: Rise of Heroes** - MMORPG на Unity с серверной частью на Node.js и PostgreSQL. Поддержка 10K+ одновременных игроков, кроссплатформенность (PC, Mobile, Console).
 
-### 🌐 Enterprise Web Solutions
+### <img src="https://cdn.simpleicons.org/googlechrome/4285F4" width="20"/> Enterprise Web Solutions
 - **CloudSync Enterprise** - Корпоративная платформа для синхронизации данных между облачными сервисами (AWS, Azure, GCP). Обрабатывает 10M+ запросов в день. Stack: Next.js, TypeScript, Kubernetes, Redis, PostgreSQL.
 - **SecureVault Pro** - Система управления паролями и секретами для enterprise с end-to-end шифрованием. Используется в 500+ компаниях. Stack: React, FastAPI, MongoDB, Docker.
 - **AnalyticsPro Dashboard** - Real-time аналитическая платформа с AI-powered insights. Обработка 1TB+ данных в день. Stack: Vue.js, Python, Apache Kafka, ClickHouse, Grafana.
 
-### 📱 Mobile Applications
+### <img src="https://cdn.simpleicons.org/android/3DDC84" width="20"/> Mobile Applications
 - **FitTrack AI** - Фитнес-приложение с AI тренером на Flutter. 1M+ установок в Google Play и App Store. Интеграция с Apple Health, Google Fit, носимыми устройствами.
 - **CryptoWallet Secure** - Мультивалютный криптокошелек с поддержкой 100+ криптовалют. Биометрическая аутентификация, hardware wallet integration. Stack: React Native, Kotlin, Swift.
 - **SmartHome Controller** - Универсальное приложение для управления умным домом. Поддержка 50+ производителей IoT устройств. Stack: Flutter, MQTT, WebSocket, Firebase.
 
-### 🔐 Cybersecurity & Networking
+### <img src="https://cdn.simpleicons.org/security/E60000" width="20"/> Cybersecurity & Networking
 - **NetGuard Pro** - Enterprise firewall и IDS/IPS система на базе pfSense и Suricata. Защита сетей для 200+ компаний.
 - **VPN Mesh Network** - Распределенная VPN сеть на WireGuard с автоматическим failover. Поддержка 50K+ одновременных подключений.
 - **PenTest Toolkit Advanced** - Комплексный набор инструментов для пентестинга. Автоматизация сканирования уязвимостей, эксплуатация, post-exploitation. Stack: Python, C++, Bash.
 
-### 🤖 AI & Machine Learning
+### <img src="https://cdn.simpleicons.org/openai/412991" width="20"/> AI & Machine Learning
 - **DeepVision AI** - Система компьютерного зрения для распознавания объектов в реальном времени. Точность 98.5%. Stack: Python, TensorFlow, CUDA, OpenCV.
 - **ChatBot Enterprise** - AI-powered чат-бот для customer support с NLP. Обрабатывает 100K+ запросов в день. Stack: Python, PyTorch, FastAPI, Redis.
 - **PredictiveAnalytics Engine** - ML-платформа для предсказательной аналитики в финтехе. Stack: Python, Scikit-learn, Apache Spark, Kubernetes.
 
-### ☁️ Cloud & DevOps
+### <img src="https://cdn.simpleicons.org/icloud/3693F3" width="20"/> Cloud & DevOps
 - **AutoDeploy CI/CD** - Автоматизированная система CI/CD с поддержкой multi-cloud (AWS, Azure, GCP). Более 1000 деплоев в день.
 - **InfraMonitor 360** - Комплексная система мониторинга инфраструктуры. Stack: Prometheus, Grafana, Elasticsearch, Kubernetes.
 - **CloudCost Optimizer** - AI-powered оптимизация расходов на облачную инфраструктуру. Экономия до 40% бюджета. Stack: Python, Terraform, AWS SDK.
 
-### 🎯 Open Source Contributions
+### <img src="https://cdn.simpleicons.org/target/CC0000" width="20"/> Open Source Contributions
 - Контрибьютор в **Kubernetes**, **Docker**, **React**, **Vue.js**
 - Мейнтейнер 15+ популярных open-source проектов на GitHub
 - 5000+ stars на личных репозиториях
 
 ---
 
-## 🎓 Сертификаты и достижения:
+## <img src="https://cdn.simpleicons.org/googlescholar/4285F4" width="24"/> Сертификаты и достижения:
 
 <p align="center">
   <img src="https://img.shields.io/badge/AWS_Certified-Solutions_Architect-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" title="AWS Solutions Architect"/>
@@ -210,19 +210,18 @@
 </p>
 
 **Достижения:**
-- 🏆 Winner - Global Game Jam 2024
-- 🥇 1st Place - International Hackathon "AI for Good" 2023
-- 🌟 GitHub Arctic Code Vault Contributor
-- 📊 Top 1% Developer на Stack Overflow (50K+ reputation)
-- 🎖️ Microsoft MVP (Most Valuable Professional) 2023-2024
-- 🔥 Google Developer Expert (GDE) in Web Technologies
+- <img src="https://cdn.simpleicons.org/trophy/FFD700" width="16"/> Winner - Global Game Jam 2024
+- <img src="https://cdn.simpleicons.org/medal/FFD700" width="16"/> 1st Place - International Hackathon "AI for Good" 2023
+- <img src="https://cdn.simpleicons.org/github/181717" width="16"/> GitHub Arctic Code Vault Contributor
+- <img src="https://cdn.simpleicons.org/stackoverflow/F58025" width="16"/> Top 1% Developer на Stack Overflow (50K+ reputation)
+- <img src="https://cdn.simpleicons.org/microsoft/0078D4" width="16"/> Microsoft MVP (Most Valuable Professional) 2023-2024
+- <img src="https://cdn.simpleicons.org/google/4285F4" width="16"/> Google Developer Expert (GDE) in Web Technologies
 
 ---
 
-## 📚 Сейчас изучаю:
+## <img src="https://cdn.simpleicons.org/bookstack/0288D1" width="24"/> Сейчас изучаю:
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" width="40" title="Rust"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="40" title="Go"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" width="40" title="Solidity"/>
   <img src="https://cdn.simpleicons.org/webassembly/654FF0" width="40" title="WebAssembly"/>
@@ -230,18 +229,19 @@
   <img src="https://cdn.simpleicons.org/pytorch/EE4C2C" width="40" title="PyTorch"/>
   <img src="https://cdn.simpleicons.org/threedotjs/000000" width="40" title="Three.js"/>
   <img src="https://cdn.simpleicons.org/blender/F5792A" width="40" title="Blender"/>
+  <img src="https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white" height="28" title="Rust"/>
 </p>
 
-- 🦀 **Rust** - Системное программирование и WebAssembly
-- 🐹 **Go** - Микросервисы и высоконагруженные системы
-- ⛓️ **Blockchain** - Solidity, Web3, Smart Contracts
-- 🤖 **AI/ML** - Deep Learning, Computer Vision, NLP
-- 🎨 **3D Graphics** - Blender, Three.js, WebGL
-- 🔐 **Zero Trust Security** - Современные подходы к безопасности
+- <img src="https://cdn.simpleicons.org/rust/000000" width="16"/> **Rust** - Системное программирование и WebAssembly
+- <img src="https://cdn.simpleicons.org/go/00ADD8" width="16"/> **Go** - Микросервисы и высоконагруженные системы
+- <img src="https://cdn.simpleicons.org/ethereum/3C3C3D" width="16"/> **Blockchain** - Solidity, Web3, Smart Contracts
+- <img src="https://cdn.simpleicons.org/openai/412991" width="16"/> **AI/ML** - Deep Learning, Computer Vision, NLP
+- <img src="https://cdn.simpleicons.org/blender/F5792A" width="16"/> **3D Graphics** - Blender, Three.js, WebGL
+- <img src="https://cdn.simpleicons.org/security/E60000" width="16"/> **Zero Trust Security** - Современные подходы к безопасности
 
 ---
 
-## 💼 Опыт работы:
+## <img src="https://cdn.simpleicons.org/briefcase/795548" width="24"/> Опыт работы:
 
 **Senior Full Stack Developer** @ TechCorp International  
 *2022 - Present*
@@ -263,7 +263,7 @@
 
 ---
 
-## 🎯 Цели на 2026:
+## <img src="https://cdn.simpleicons.org/target/CC0000" width="24"/> Цели на 2026:
 
 - [ ] Выпустить коммерческую игру на Unreal Engine 5
 - [ ] Получить сертификацию OSCP (Offensive Security Certified Professional)
@@ -275,23 +275,23 @@
 
 ---
 
-## 🔧 Мой Setup:
+## <img src="https://cdn.simpleicons.org/tools/FF6B6B" width="24"/> Мой Setup:
 
-**💻 Hardware:**
+**<img src="https://cdn.simpleicons.org/nvidia/76B900" width="16"/> Hardware:**
 - CPU: AMD Ryzen 9 7950X (16 cores, 32 threads)
 - GPU: NVIDIA RTX 4090 24GB (для ML и Game Dev)
 - RAM: 128GB DDR5 6000MHz
 - Storage: 4TB NVMe SSD (Samsung 990 PRO)
 - Monitor: 2x 4K 144Hz + 1x Ultrawide 5K2K
 
-**🖥️ Software:**
+**<img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" width="16"/> Software:**
 - OS: Windows 11 Pro + Ubuntu 22.04 LTS (dual boot)
 - IDE: VS Code, JetBrains Suite, Unreal Engine 5
 - Terminal: Windows Terminal + Oh My Zsh
 - Browser: Arc, Chrome DevTools
 - Design: Figma, Blender, Photoshop
 
-**☁️ Homelab:**
+**<img src="https://cdn.simpleicons.org/icloud/3693F3" width="16"/> Homelab:**
 - Proxmox VE Cluster (3 nodes)
 - TrueNAS Scale (100TB storage)
 - pfSense Firewall + Suricata IDS
@@ -300,31 +300,31 @@
 
 ---
 
-## 📊 Coding Stats:
+## <img src="https://cdn.simpleicons.org/chartdotjs/FF6384" width="24"/> Coding Stats:
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=eXLu51ve&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=FFFFFF" alt="WakaTime Stats" />
 </div>
 
 **Weekly Development Breakdown:**
-- 🎮 Game Development (Unreal Engine, Unity): 35%
-- 🌐 Web Development (React, Next.js, Vue): 25%
-- 🐍 Backend & APIs (Python, Node.js, FastAPI): 20%
-- 🔐 DevOps & Infrastructure (Docker, K8s, Terraform): 15%
-- 🤖 AI/ML & Data Science: 5%
+- <img src="https://cdn.simpleicons.org/unrealengine/0E1128" width="16"/> Game Development (Unreal Engine, Unity): 35%
+- <img src="https://cdn.simpleicons.org/react/61DAFB" width="16"/> Web Development (React, Next.js, Vue): 25%
+- <img src="https://cdn.simpleicons.org/python/3776AB" width="16"/> Backend & APIs (Python, Node.js, FastAPI): 20%
+- <img src="https://cdn.simpleicons.org/docker/2496ED" width="16"/> DevOps & Infrastructure (Docker, K8s, Terraform): 15%
+- <img src="https://cdn.simpleicons.org/openai/412991" width="16"/> AI/ML & Data Science: 5%
 
 ---
 
-## 🎮 Хобби и интересы:
+## <img src="https://cdn.simpleicons.org/gamepad/FF6B6B" width="24"/> Хобби и интересы:
 
-- 🎯 **Game Development** - Создание игр на Unreal Engine и Unity
-- 🔐 **Cybersecurity** - CTF соревнования, Bug Bounty hunting
-- 🤖 **Robotics** - Arduino, Raspberry Pi проекты
-- 🎨 **3D Modeling** - Blender, создание игровых ассетов
-- 📡 **Homelab** - Self-hosting, сетевые технологии
-- 🎵 **Music Production** - FL Studio, синтез звука
-- 📚 **Tech Blogging** - Пишу статьи о разработке и DevOps
-- 🏃 **Fitness** - Бег, тренажерный зал, здоровый образ жизни
+- <img src="https://cdn.simpleicons.org/unrealengine/0E1128" width="16"/> **Game Development** - Создание игр на Unreal Engine и Unity
+- <img src="https://cdn.simpleicons.org/security/E60000" width="16"/> **Cybersecurity** - CTF соревнования, Bug Bounty hunting
+- <img src="https://cdn.simpleicons.org/arduino/00979D" width="16"/> **Robotics** - Arduino, Raspberry Pi проекты
+- <img src="https://cdn.simpleicons.org/blender/F5792A" width="16"/> **3D Modeling** - Blender, создание игровых ассетов
+- <img src="https://cdn.simpleicons.org/homeassistant/41BDF5" width="16"/> **Homelab** - Self-hosting, сетевые технологии
+- <img src="https://cdn.simpleicons.org/spotify/1DB954" width="16"/> **Music Production** - FL Studio, синтез звука
+- <img src="https://cdn.simpleicons.org/medium/000000" width="16"/> **Tech Blogging** - Пишу статьи о разработке и DevOps
+- <img src="https://cdn.simpleicons.org/strava/FC4C02" width="16"/> **Fitness** - Бег, тренажерный зал, здоровый образ жизни
 
 ---
 
@@ -332,7 +332,7 @@
 
 ---
 
-## 📊 GitHub статистика:
+## <img src="https://cdn.simpleicons.org/github/181717" width="24"/> GitHub статистика:
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=eXLu51ve-gjj&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=FFFFFF" alt="GitHub Stats" />
@@ -348,7 +348,7 @@
 
 ---
 
-## 🏆 GitHub трофеи:
+## <img src="https://cdn.simpleicons.org/trophy/FFD700" width="24"/> GitHub трофеи:
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=eXLu51ve-gjj&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies" />
@@ -356,7 +356,7 @@
 
 ---
 
-## 📈 Активность:
+## <img src="https://cdn.simpleicons.org/chartdotjs/FF6384" width="24"/> Активность:
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=eXLu51ve-gjj&theme=react-dark&hide_border=true&bg_color=0D1117&color=A855F7&line=A855F7&point=FFFFFF" alt="Activity Graph" />
@@ -364,7 +364,7 @@
 
 ---
 
-## 💡 Случайная цитата для разработчиков:
+## <img src="https://cdn.simpleicons.org/quotes/9C27B0" width="24"/> Случайная цитата для разработчиков:
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
@@ -372,7 +372,7 @@
 
 ---
 
-## 🎯 О себе:
+## <img src="https://cdn.simpleicons.org/target/CC0000" width="24"/> О себе:
 
 ```typescript
 const timur = {
@@ -395,7 +395,7 @@ const timur = {
 
 ---
 
-## 🔥 Мой стек:
+## <img src="https://cdn.simpleicons.org/fire/FF6B6B" width="24"/> Мой стек:
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" title="JavaScript"/>
@@ -448,7 +448,7 @@ const timur = {
 </div>
 
 <div align="center">
-  <h3>⭐ Не забудьте поставить звезду моим проектам! ⭐</h3>
+  <h3><img src="https://cdn.simpleicons.org/star/FFD700" width="20"/> Не забудьте поставить звезду моим проектам! <img src="https://cdn.simpleicons.org/star/FFD700" width="20"/></h3>
 </div>
 
 ---
