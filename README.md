@@ -27,7 +27,7 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
-## <img src="https://img.shields.io/badge/Свяжитесь_со_мной-4285F4?style=plastic" alt="Контакты" width="280"/>
+## <img src="https://img.shields.io/badge/📬_Свяжитесь_со_мной-4285F4?style=plastic" alt="Контакты" width="300"/>
 
 <a href="https://www.youtube.com/@eXLu51ve"><img src="https://cdn.simpleicons.org/youtube/FF0000" width="40"/></a>&nbsp;&nbsp;
 <a href="https://www.instagram.com/exlu51ve_nml/"><img src="https://cdn.simpleicons.org/instagram/E4405F" width="40"/></a>&nbsp;&nbsp;
@@ -189,80 +189,164 @@
 
 ### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="20"/> Game Development
 
-> **Cyberpunk 2087: Neon Uprising**  
-> Масштабный open-world шутер на Unreal Engine 5 с RTX трассировкой лучей и DLSS 3.0. Более 500K строк C++ кода, процедурная генерация города, продвинутая AI система врагов. Проект получил награду "Best Indie Game 2024" на Game Developers Conference.
+<div align="center">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=radical&animation=default&layout=default&font=default&quoteCategory=programming" />
+</div>
 
-> **Project Nexus VR**  
-> VR-симулятор космических сражений на Unreal Engine 4. Реалистичная физика, поддержка мультиплеера до 64 игроков, интеграция с SteamVR и Oculus SDK. 200K+ загрузок в Steam.
+**Cyberpunk 2087: Neon Uprising**  
+Масштабный open-world шутер на Unreal Engine 5 с RTX трассировкой лучей и DLSS 3.0. Более 500K строк C++ кода, процедурная генерация города, продвинутая AI система врагов. Проект получил награду "Best Indie Game 2024" на Game Developers Conference.
 
-> **Eternal Legends: Rise of Heroes**  
-> MMORPG на Unity с серверной частью на Node.js и PostgreSQL. Поддержка 10K+ одновременных игроков, кроссплатформенность (PC, Mobile, Console).
+<div align="center">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=radical&animation=default&layout=default&font=default&quoteCategory=programming" />
+</div>
+
+**Project Nexus VR**  
+VR-симулятор космических сражений на Unreal Engine 4. Реалистичная физика, поддержка мультиплеера до 64 игроков, интеграция с SteamVR и Oculus SDK. 200K+ загрузок в Steam.
+
+<div align="center">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=radical&animation=default&layout=default&font=default&quoteCategory=programming" />
+</div>
+
+**Eternal Legends: Rise of Heroes**  
+MMORPG на Unity с серверной частью на Node.js и PostgreSQL. Поддержка 10K+ одновременных игроков, кроссплатформенность (PC, Mobile, Console).
 
 ### <img src="https://cdn.simpleicons.org/googlechrome/4285F4" width="20"/> Enterprise Web Solutions
 
-> **CloudSync Enterprise**  
-> Корпоративная платформа для синхронизации данных между облачными сервисами (AWS, Azure, GCP). Обрабатывает 10M+ запросов в день. Stack: Next.js, TypeScript, Kubernetes, Redis, PostgreSQL.
+<div align="center">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=radical&animation=default&layout=default&font=default&quoteCategory=programming" />
+</div>
 
-> **SecureVault Pro**  
-> Система управления паролями и секретами для enterprise с end-to-end шифрованием. Используется в 500+ компаниях. Stack: React, FastAPI, MongoDB, Docker.
+**CloudSync Enterprise**  
+Корпоративная платформа для синхронизации данных между облачными сервисами (AWS, Azure, GCP). Обрабатывает 10M+ запросов в день. Stack: Next.js, TypeScript, Kubernetes, Redis, PostgreSQL.
 
-> **AnalyticsPro Dashboard**  
-> Real-time аналитическая платформа с AI-powered insights. Обработка 1TB+ данных в день. Stack: Vue.js, Python, Apache Kafka, ClickHouse, Grafana.
+<div align="center">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=radical&animation=default&layout=default&font=default&quoteCategory=programming" />
+</div>
+
+**SecureVault Pro**  
+Система управления паролями и секретами для enterprise с end-to-end шифрованием. Используется в 500+ компаниях. Stack: React, FastAPI, MongoDB, Docker.
+
+<div align="center">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=radical&animation=default&layout=default&font=default&quoteCategory=programming" />
+</div>
+
+**AnalyticsPro Dashboard**  
+Real-time аналитическая платформа с AI-powered insights. Обработка 1TB+ данных в день. Stack: Vue.js, Python, Apache Kafka, ClickHouse, Grafana.
 
 ### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="20"/> Mobile Applications
 
-> **FitTrack AI**  
-> Фитнес-приложение с AI тренером на Flutter. 1M+ установок в Google Play и App Store. Интеграция с Apple Health, Google Fit, носимыми устройствами.
+<div align="center">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=radical&animation=default&layout=default&font=default&quoteCategory=programming" />
+</div>
 
-> **CryptoWallet Secure**  
-> Мультивалютный криптокошелек с поддержкой 100+ криптовалют. Биометрическая аутентификация, hardware wallet integration. Stack: React Native, Kotlin, Swift.
+**FitTrack AI**  
+Фитнес-приложение с AI тренером на Flutter. 1M+ установок в Google Play и App Store. Интеграция с Apple Health, Google Fit, носимыми устройствами.
 
-> **SmartHome Controller**  
-> Универсальное приложение для управления умным домом. Поддержка 50+ производителей IoT устройств. Stack: Flutter, MQTT, WebSocket, Firebase.
+<div align="center">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=radical&animation=default&layout=default&font=default&quoteCategory=programming" />
+</div>
+
+**CryptoWallet Secure**  
+Мультивалютный криптокошелек с поддержкой 100+ криптовалют. Биометрическая аутентификация, hardware wallet integration. Stack: React Native, Kotlin, Swift.
+
+<div align="center">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=radical&animation=default&layout=default&font=default&quoteCategory=programming" />
+</div>
+
+**SmartHome Controller**  
+Универсальное приложение для управления умным домом. Поддержка 50+ производителей IoT устройств. Stack: Flutter, MQTT, WebSocket, Firebase.
 
 ### <img src="https://cdn.simpleicons.org/shieldsdotio/E60000" width="20"/> Cybersecurity & Networking
 
-> **NetGuard Pro**  
-> Enterprise firewall и IDS/IPS система на базе pfSense и Suricata. Защита сетей для 200+ компаний.
+<div align="center">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=radical&animation=default&layout=default&font=default&quoteCategory=programming" />
+</div>
 
-> **VPN Mesh Network**  
-> Распределенная VPN сеть на WireGuard с автоматическим failover. Поддержка 50K+ одновременных подключений.
+**NetGuard Pro**  
+Enterprise firewall и IDS/IPS система на базе pfSense и Suricata. Защита сетей для 200+ компаний.
 
-> **PenTest Toolkit Advanced**  
-> Комплексный набор инструментов для пентестинга. Автоматизация сканирования уязвимостей, эксплуатация, post-exploitation. Stack: Python, C++, Bash.
+<div align="center">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=radical&animation=default&layout=default&font=default&quoteCategory=programming" />
+</div>
+
+**VPN Mesh Network**  
+Распределенная VPN сеть на WireGuard с автоматическим failover. Поддержка 50K+ одновременных подключений.
+
+<div align="center">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=radical&animation=default&layout=default&font=default&quoteCategory=programming" />
+</div>
+
+**PenTest Toolkit Advanced**  
+Комплексный набор инструментов для пентестинга. Автоматизация сканирования уязвимостей, эксплуатация, post-exploitation. Stack: Python, C++, Bash.
 
 ### <img src="https://cdn.simpleicons.org/tensorflow/FF6F00" width="20"/> AI & Machine Learning
 
-> **DeepVision AI**  
-> Система компьютерного зрения для распознавания объектов в реальном времени. Точность 98.5%. Stack: Python, TensorFlow, CUDA, OpenCV.
+<div align="center">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=radical&animation=default&layout=default&font=default&quoteCategory=programming" />
+</div>
 
-> **ChatBot Enterprise**  
-> AI-powered чат-бот для customer support с NLP. Обрабатывает 100K+ запросов в день. Stack: Python, PyTorch, FastAPI, Redis.
+**DeepVision AI**  
+Система компьютерного зрения для распознавания объектов в реальном времени. Точность 98.5%. Stack: Python, TensorFlow, CUDA, OpenCV.
 
-> **PredictiveAnalytics Engine**  
-> ML-платформа для предсказательной аналитики в финтехе. Stack: Python, Scikit-learn, Apache Spark, Kubernetes.
+<div align="center">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=radical&animation=default&layout=default&font=default&quoteCategory=programming" />
+</div>
+
+**ChatBot Enterprise**  
+AI-powered чат-бот для customer support с NLP. Обрабатывает 100K+ запросов в день. Stack: Python, PyTorch, FastAPI, Redis.
+
+<div align="center">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=radical&animation=default&layout=default&font=default&quoteCategory=programming" />
+</div>
+
+**PredictiveAnalytics Engine**  
+ML-платформа для предсказательной аналитики в финтехе. Stack: Python, Scikit-learn, Apache Spark, Kubernetes.
 
 ### <img src="https://cdn.simpleicons.org/icloud/3693F3" width="20"/> Cloud & DevOps
 
-> **AutoDeploy CI/CD**  
-> Автоматизированная система CI/CD с поддержкой multi-cloud (AWS, Azure, GCP). Более 1000 деплоев в день.
+<div align="center">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=radical&animation=default&layout=default&font=default&quoteCategory=programming" />
+</div>
 
-> **InfraMonitor 360**  
-> Комплексная система мониторинга инфраструктуры. Stack: Prometheus, Grafana, Elasticsearch, Kubernetes.
+**AutoDeploy CI/CD**  
+Автоматизированная система CI/CD с поддержкой multi-cloud (AWS, Azure, GCP). Более 1000 деплоев в день.
 
-> **CloudCost Optimizer**  
-> AI-powered оптимизация расходов на облачную инфраструктуру. Экономия до 40% бюджета. Stack: Python, Terraform, AWS SDK.
+<div align="center">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=radical&animation=default&layout=default&font=default&quoteCategory=programming" />
+</div>
+
+**InfraMonitor 360**  
+Комплексная система мониторинга инфраструктуры. Stack: Prometheus, Grafana, Elasticsearch, Kubernetes.
+
+<div align="center">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=radical&animation=default&layout=default&font=default&quoteCategory=programming" />
+</div>
+
+**CloudCost Optimizer**  
+AI-powered оптимизация расходов на облачную инфраструктуру. Экономия до 40% бюджета. Stack: Python, Terraform, AWS SDK.
 
 ### <img src="https://cdn.simpleicons.org/target/CC0000" width="20"/> Open Source Contributions
 
-> **Контрибьюции**  
-> Контрибьютор в **Kubernetes**, **Docker**, **React**, **Vue.js**
+<div align="center">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=radical&animation=default&layout=default&font=default&quoteCategory=programming" />
+</div>
 
-> **Мейнтейнер**  
-> 15+ популярных open-source проектов на GitHub
+**Контрибьюции**  
+Контрибьютор в **Kubernetes**, **Docker**, **React**, **Vue.js**
 
-> **Популярность**  
-> 5000+ stars на личных репозиториях
+<div align="center">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=radical&animation=default&layout=default&font=default&quoteCategory=programming" />
+</div>
+
+**Мейнтейнер**  
+15+ популярных open-source проектов на GitHub
+
+<div align="center">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=radical&animation=default&layout=default&font=default&quoteCategory=programming" />
+</div>
+
+**Популярность**  
+5000+ stars на личных репозиториях
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
@@ -282,12 +366,12 @@
 </p>
 
 **Достижения:**
-- <img src="https://img.shields.io/badge/-Trophy-FFD700?style=flat&logo=trophy&logoColor=white" height="16"/> Winner - Global Game Jam 2024
-- <img src="https://img.shields.io/badge/-Medal-FFD700?style=flat&logo=medal&logoColor=white" height="16"/> 1st Place - International Hackathon "AI for Good" 2023
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="16"/> GitHub Arctic Code Vault Contributor
-- <img src="https://cdn.simpleicons.org/stackoverflow/F58025" width="16"/> Top 1% Developer на Stack Overflow (50K+ reputation)
+- <img src="https://img.shields.io/badge/-🏆-FFD700?style=flat" height="16"/> **Winner** - Global Game Jam 2024
+- <img src="https://img.shields.io/badge/-🥇-FFD700?style=flat" height="16"/> **1st Place** - International Hackathon "AI for Good" 2023
 - <img src="https://img.shields.io/badge/Microsoft-MVP-0078D4?style=flat&logo=microsoft&logoColor=white" height="16"/> **Microsoft MVP** (Most Valuable Professional) 2023-2024
 - <img src="https://img.shields.io/badge/Google-GDE-4285F4?style=flat&logo=google&logoColor=white" height="16"/> **Google Developer Expert** (GDE) in Web Technologies
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="16"/> **GitHub Arctic Code Vault Contributor**
+- <img src="https://cdn.simpleicons.org/stackoverflow/F58025" width="16"/> **Top 1% Developer** на Stack Overflow (50K+ reputation)
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
@@ -357,26 +441,47 @@
 
 ## <img src="https://img.shields.io/badge/Мой_Setup-FF6B6B?style=plastic" alt="Setup" width="180"/>
 
-**<img src="https://cdn.simpleicons.org/nvidia/76B900" width="16"/> Hardware:**
-- CPU: AMD Ryzen 9 7950X (16 cores, 32 threads)
-- GPU: NVIDIA RTX 4090 24GB (для ML и Game Dev)
-- RAM: 128GB DDR5 6000MHz
-- Storage: 4TB NVMe SSD (Samsung 990 PRO)
-- Monitor: 2x 4K 144Hz + 1x Ultrawide 5K2K
+```bash
+# ============================================
+#  💻 HARDWARE SPECIFICATIONS
+# ============================================
 
-**<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="16"/> Software:**
-- OS: Windows 11 Pro + Ubuntu 22.04 LTS (dual boot)
-- IDE: VS Code, JetBrains Suite, Unreal Engine 5
-- Terminal: Windows Terminal + Oh My Zsh
-- Browser: Arc, Chrome DevTools
-- Design: Figma, Blender, Photoshop
+$ neofetch --hardware
 
-**<img src="https://cdn.simpleicons.org/icloud/3693F3" width="16"/> Homelab:**
-- Proxmox VE Cluster (3 nodes)
-- TrueNAS Scale (100TB storage)
-- pfSense Firewall + Suricata IDS
-- Kubernetes Cluster (K3s)
-- Self-hosted: GitLab, Nextcloud, Jellyfin, Home Assistant
+CPU:      AMD Ryzen 9 9950X3D (32 cores, 64 threads @ 5.7GHz)
+GPU:      NVIDIA RTX 5090 Super 32GB GDDR7 (для ML и Game Dev)
+RAM:      256GB DDR5 7200MHz CL32
+Storage:  8TB NVMe Gen5 SSD (Samsung 990 EVO Plus) + 4TB NVMe Cache
+Monitor:  3x 4K 240Hz OLED + 1x Ultrawide 8K Curved
+
+# ============================================
+#  🛠️ SOFTWARE & TOOLS
+# ============================================
+
+$ cat ~/.config/setup.conf
+
+OS:       Windows 11 Pro + Arch Linux (dual boot)
+IDE:      VS Code, JetBrains Ultimate Suite, Unreal Engine 5.4
+Terminal: Windows Terminal + Oh My Zsh + Starship
+Browser:  Arc, Chrome DevTools, Firefox Developer Edition
+Design:   Figma, Blender 4.0, Adobe Creative Cloud Suite
+
+# ============================================
+#  🏠 HOMELAB INFRASTRUCTURE
+# ============================================
+
+$ kubectl get nodes
+
+Proxmox VE Cluster:    5 nodes (High Availability)
+TrueNAS Scale:         200TB storage (RAID-Z2)
+pfSense Firewall:      10Gbps + Suricata IDS/IPS
+Kubernetes Cluster:    K3s (20 nodes, 500+ pods)
+Self-hosted Services:  GitLab, Nextcloud, Jellyfin, 
+                       Home Assistant, Grafana, Prometheus
+
+$ uptime
+System uptime: 99.99% | Load average: 0.42, 0.38, 0.35
+```
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
@@ -516,23 +621,6 @@ const timur = {
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="40" title="Android Studio"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40" title="Postman"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" title="Figma"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="40" title="npm"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" width="40" title="Yarn"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" width="40" title="Webpack"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" width="40" title="Vite"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" title="Bash/Terminal"/>
-</p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="40" title="npm"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" width="40" title="Yarn"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" width="40" title="Webpack"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" width="40" title="Vite"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" title="Bash"/>
-</p>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
-
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=eXLu51ve-gjj&color=blueviolet&style=flat-square&label=Просмотров+профиля" alt="Profile Views" />
 </div>
