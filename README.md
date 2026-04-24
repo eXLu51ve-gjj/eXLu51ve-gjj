@@ -315,7 +315,7 @@
 ## <img src="https://img.shields.io/badge/Опыт_работы-795548?style=plastic" alt="Карьера" width="200"/>
 
 <div align="center">
-  <img src="./GIF/business-plan.gif" width="350" alt="Business" />
+  <img src="./GIF/Business Plan.gif" width="350" alt="Business" />
 </div>
 
 <br/>
