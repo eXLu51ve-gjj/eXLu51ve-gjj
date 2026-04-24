@@ -1,10 +1,30 @@
 <div align="center">
   <img src="./logo5.jpg" alt="eXLu51ve Logo" width="200"/>
-  <h1>eXLu51ve</h1>
 </div>
 
+```ascii
+╔══════════════════════════════════════════════════════════════════════════════╗
+║                                                                              ║
+║                              ▓█████ ▒██   ██▒ ██▓     █    ██  ██████ ▒█████  ██▒   █▓▓█████ 
+║                              ▓█   ▀ ▒▒ █ █ ▒░▓██▒     ██  ▓██▒▒██    ▒▒██▒  ██▒▓██░   █▒▓█   ▀ 
+║                              ▒███   ░░  █   ░▒██░    ▓██  ▒██░░ ▓██▄  ▒██░  ██▒ ▓██  █▒░▒███   
+║                              ▒▓█  ▄  ░ █ █ ▒ ▒██░    ▓▓█  ░██░  ▒   ██▒██   ██░  ▒██ █░░▒▓█  ▄ 
+║                              ░▒████▒▒██▒ ▒██▒░██████▒▒▒█████▓ ▒██████▒░ ████▓▒░   ▒▀█░  ░▒████▒
+║                              ░░ ▒░ ░▒▒ ░ ░▓ ░░ ▒░▓  ░░▒▓▒ ▒ ▒ ▒ ▒▓▒ ▒ ░ ▒░▒░▒░    ░ ▐░  ░░ ▒░ ░
+║                               ░ ░  ░░░   ░▒ ░░ ░ ▒  ░░░▒░ ░ ░ ░ ░▒  ░ ░  ░ ▒ ▒░    ░ ░░   ░ ░  ░
+║                                 ░    ░    ░    ░ ░    ░░░ ░ ░ ░  ░  ░  ░ ░ ░ ▒       ░░     ░   
+║                                 ░  ░ ░    ░      ░  ░   ░           ░      ░ ░        ░     ░  ░
+║                                                                              ░               
+║                                                                              ║
+║  > Full Stack Developer | Mobile App Developer | Open Source Enthusiast     ║
+║  > Location: Russia                                                          ║
+║  > Status: Building awesome projects 🚀                                      ║
+║                                                                              ║
+╚══════════════════════════════════════════════════════════════════════════════╝
+```
+
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=940&lines=Full+Stack+Developer;Mobile+App+Developer;Open+Source+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2800&pause=2000&color=00FF00&center=true&vCenter=true&width=940&lines=root@github:~%24+whoami;eXLu51ve+-+Full+Stack+Developer;root@github:~%24+cat+skills.txt;JavaScript+%7C+TypeScript+%7C+Python+%7C+C%2B%2B;root@github:~%24+echo+%22Let's+build+something+amazing!%22" alt="Terminal Typing" />
 </div>
 
 ---
