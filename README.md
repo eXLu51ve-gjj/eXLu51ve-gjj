@@ -1,4 +1,4 @@
-# <img src="https://cdn.simpleicons.org/wavinghands/FFD700" width="32"/> Привет! Я Тимур (eXLu51ve)
+# <img src="https://img.shields.io/badge/-👋-FFD700?style=flat" height="32"/> Привет! Я Тимур (eXLu51ve)
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=940&lines=Full+Stack+Developer;Mobile+App+Developer;Open+Source+Enthusiast" alt="Typing SVG" />
@@ -15,7 +15,7 @@
 
 ---
 
-## <img src="https://cdn.simpleicons.org/windows/0078D4" width="24"/> Операционные системы и сетевое оборудование:
+## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="24"/> Операционные системы и сетевое оборудование:
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows11/windows11-original.svg" width="40" title="Windows 11"/>
@@ -106,7 +106,7 @@
 
 ---
 
-## <img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" width="24"/> Языки программирования и инструменты:
+## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="24"/> Языки программирования и инструменты:
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" title="C"/>
@@ -174,12 +174,12 @@
 - **CryptoWallet Secure** - Мультивалютный криптокошелек с поддержкой 100+ криптовалют. Биометрическая аутентификация, hardware wallet integration. Stack: React Native, Kotlin, Swift.
 - **SmartHome Controller** - Универсальное приложение для управления умным домом. Поддержка 50+ производителей IoT устройств. Stack: Flutter, MQTT, WebSocket, Firebase.
 
-### <img src="https://cdn.simpleicons.org/security/E60000" width="20"/> Cybersecurity & Networking
+### <img src="https://img.shields.io/badge/-Security-E60000?style=flat" height="20"/> Cybersecurity & Networking
 - **NetGuard Pro** - Enterprise firewall и IDS/IPS система на базе pfSense и Suricata. Защита сетей для 200+ компаний.
 - **VPN Mesh Network** - Распределенная VPN сеть на WireGuard с автоматическим failover. Поддержка 50K+ одновременных подключений.
 - **PenTest Toolkit Advanced** - Комплексный набор инструментов для пентестинга. Автоматизация сканирования уязвимостей, эксплуатация, post-exploitation. Stack: Python, C++, Bash.
 
-### <img src="https://cdn.simpleicons.org/openai/412991" width="20"/> AI & Machine Learning
+### <img src="https://img.shields.io/badge/-AI/ML-412991?style=flat" height="20"/> AI & Machine Learning
 - **DeepVision AI** - Система компьютерного зрения для распознавания объектов в реальном времени. Точность 98.5%. Stack: Python, TensorFlow, CUDA, OpenCV.
 - **ChatBot Enterprise** - AI-powered чат-бот для customer support с NLP. Обрабатывает 100K+ запросов в день. Stack: Python, PyTorch, FastAPI, Redis.
 - **PredictiveAnalytics Engine** - ML-платформа для предсказательной аналитики в финтехе. Stack: Python, Scikit-learn, Apache Spark, Kubernetes.
@@ -241,7 +241,7 @@
 
 ---
 
-## <img src="https://cdn.simpleicons.org/briefcase/795548" width="24"/> Опыт работы:
+## <img src="https://img.shields.io/badge/-Work-795548?style=flat" height="24"/> Опыт работы:
 
 **Senior Full Stack Developer** @ TechCorp International  
 *2022 - Present*
@@ -284,7 +284,7 @@
 - Storage: 4TB NVMe SSD (Samsung 990 PRO)
 - Monitor: 2x 4K 144Hz + 1x Ultrawide 5K2K
 
-**<img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" width="16"/> Software:**
+**<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="16"/> Software:**
 - OS: Windows 11 Pro + Ubuntu 22.04 LTS (dual boot)
 - IDE: VS Code, JetBrains Suite, Unreal Engine 5
 - Terminal: Windows Terminal + Oh My Zsh
@@ -311,14 +311,14 @@
 - <img src="https://cdn.simpleicons.org/react/61DAFB" width="16"/> Web Development (React, Next.js, Vue): 25%
 - <img src="https://cdn.simpleicons.org/python/3776AB" width="16"/> Backend & APIs (Python, Node.js, FastAPI): 20%
 - <img src="https://cdn.simpleicons.org/docker/2496ED" width="16"/> DevOps & Infrastructure (Docker, K8s, Terraform): 15%
-- <img src="https://cdn.simpleicons.org/openai/412991" width="16"/> AI/ML & Data Science: 5%
+- <img src="https://img.shields.io/badge/-AI/ML-412991?style=flat" height="16"/> AI/ML & Data Science: 5%
 
 ---
 
 ## <img src="https://cdn.simpleicons.org/gamepad/FF6B6B" width="24"/> Хобби и интересы:
 
 - <img src="https://cdn.simpleicons.org/unrealengine/0E1128" width="16"/> **Game Development** - Создание игр на Unreal Engine и Unity
-- <img src="https://cdn.simpleicons.org/security/E60000" width="16"/> **Cybersecurity** - CTF соревнования, Bug Bounty hunting
+- <img src="https://img.shields.io/badge/-Security-E60000?style=flat" height="16"/> **Cybersecurity** - CTF соревнования, Bug Bounty hunting
 - <img src="https://cdn.simpleicons.org/arduino/00979D" width="16"/> **Robotics** - Arduino, Raspberry Pi проекты
 - <img src="https://cdn.simpleicons.org/blender/F5792A" width="16"/> **3D Modeling** - Blender, создание игровых ассетов
 - <img src="https://cdn.simpleicons.org/homeassistant/41BDF5" width="16"/> **Homelab** - Self-hosting, сетевые технологии
@@ -348,7 +348,7 @@
 
 ---
 
-## <img src="https://cdn.simpleicons.org/trophy/FFD700" width="24"/> GitHub трофеи:
+## <img src="https://img.shields.io/badge/-🏆-FFD700?style=flat" height="24"/> GitHub трофеи:
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=eXLu51ve-gjj&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies" />
@@ -364,7 +364,7 @@
 
 ---
 
-## <img src="https://cdn.simpleicons.org/quotes/9C27B0" width="24"/> Случайная цитата для разработчиков:
+## <img src="https://img.shields.io/badge/-💬-9C27B0?style=flat" height="24"/> Случайная цитата для разработчиков:
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
@@ -395,7 +395,7 @@ const timur = {
 
 ---
 
-## <img src="https://cdn.simpleicons.org/fire/FF6B6B" width="24"/> Мой стек:
+## <img src="https://img.shields.io/badge/-Stack-FF6B6B?style=flat" height="24"/> Мой стек:
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" title="JavaScript"/>
@@ -448,7 +448,7 @@ const timur = {
 </div>
 
 <div align="center">
-  <h3><img src="https://cdn.simpleicons.org/star/FFD700" width="20"/> Не забудьте поставить звезду моим проектам! <img src="https://cdn.simpleicons.org/star/FFD700" width="20"/></h3>
+  <h3><img src="https://img.shields.io/badge/-⭐-FFD700?style=flat" height="20"/> Не забудьте поставить звезду моим проектам! <img src="https://img.shields.io/badge/-⭐-FFD700?style=flat" height="20"/></h3>
 </div>
 
 ---
