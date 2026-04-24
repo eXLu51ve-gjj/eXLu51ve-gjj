@@ -27,19 +27,19 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-original.svg" width="40" title="Fedora"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-original.svg" width="40" title="Red Hat"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rockylinux/rockylinux-original.svg" width="40" title="Rocky Linux"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/alpinelinux/alpinelinux-original.svg" width="40" title="Alpine Linux"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/archlinux/archlinux-original.svg" width="40" title="Arch Linux"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="40" title="Android"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" width="40" title="macOS/iOS"/>
   <img src="https://cdn.simpleicons.org/raspberrypi/A22846" width="40" title="Raspberry Pi OS"/>
   <img src="https://cdn.simpleicons.org/freebsd/AB2B28" width="40" title="FreeBSD"/>
   <img src="https://cdn.simpleicons.org/openbsd/F2CA30" width="40" title="OpenBSD"/>
+  <img src="https://cdn.simpleicons.org/kalilinux/557C94" width="40" title="Kali Linux"/>
+  <img src="https://img.shields.io/badge/Alpine-0D597F?style=flat&logo=alpinelinux&logoColor=white" height="28" title="Alpine Linux"/>
   <img src="https://img.shields.io/badge/Windows_Server-0078D4?style=flat&logo=windows&logoColor=white" height="28" title="Windows Server"/>
   <img src="https://img.shields.io/badge/Proxmox-E57000?style=flat&logo=proxmox&logoColor=white" height="28" title="Proxmox"/>
   <img src="https://img.shields.io/badge/ESXi-607078?style=flat&logo=vmware&logoColor=white" height="28" title="VMware ESXi"/>
   <img src="https://img.shields.io/badge/Hyper--V-0078D4?style=flat&logo=microsoft&logoColor=white" height="28" title="Hyper-V"/>
   <img src="https://img.shields.io/badge/KVM-FF6600?style=flat&logo=linux&logoColor=white" height="28" title="KVM"/>
-  <img src="https://img.shields.io/badge/VirtualBox-183A61?style=flat&logo=virtualbox&logoColor=white" height="28" title="VirtualBox"/>
 </p>
 
 **Сетевое оборудование:**
@@ -76,10 +76,10 @@
   <img src="https://cdn.simpleicons.org/cloudflare/F38020" width="40" title="Cloudflare"/>
   <img src="https://cdn.simpleicons.org/wireguard/88171A" width="40" title="WireGuard"/>
   <img src="https://cdn.simpleicons.org/openvpn/EA7E20" width="40" title="OpenVPN"/>
-  <img src="https://cdn.simpleicons.org/traefik/24A1C1" width="40" title="Traefik"/>
   <img src="https://cdn.simpleicons.org/caddy/1F88C0" width="40" title="Caddy"/>
-  <img src="https://cdn.simpleicons.org/haproxy/00ADD8" width="40" title="HAProxy"/>
-  <img src="https://cdn.simpleicons.org/envoy/AC6199" width="40" title="Envoy"/>
+  <img src="https://img.shields.io/badge/Traefik-24A1C1?style=flat&logo=traefikproxy&logoColor=white" height="28" title="Traefik"/>
+  <img src="https://img.shields.io/badge/HAProxy-00ADD8?style=flat&logo=haproxy&logoColor=white" height="28" title="HAProxy"/>
+  <img src="https://img.shields.io/badge/Envoy-AC6199?style=flat&logo=envoyproxy&logoColor=white" height="28" title="Envoy"/>
   <img src="https://img.shields.io/badge/HTTP/HTTPS-005C84?style=flat&logo=https&logoColor=white" height="28" title="HTTP/HTTPS"/>
   <img src="https://img.shields.io/badge/SSL/TLS-721412?style=flat&logo=letsencrypt&logoColor=white" height="28" title="SSL/TLS"/>
   <img src="https://img.shields.io/badge/TCP-0066CC?style=flat&logo=protocol&logoColor=white" height="28" title="TCP"/>
