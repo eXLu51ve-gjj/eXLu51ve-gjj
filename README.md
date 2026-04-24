@@ -439,31 +439,28 @@ System uptime: 99.99% | Load average: 0.42, 0.38, 0.35
 
 ## <img src="https://img.shields.io/badge/GitHub_статистика-181717?style=plastic&logo=github&logoColor=white" alt="GitHub Stats" width="260"/>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=eXLu51ve-gjj&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=FFFFFF&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=eXLu51ve-gjj&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=FFFFFF&include_all_commits=true&count_private=true" alt="GitHub Stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eXLu51ve-gjj&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=FFFFFF&langs_count=10" alt="Top Languages" height="180"/>
+</p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eXLu51ve-gjj&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=FFFFFF&langs_count=10" alt="Top Languages" />
-</div>
-
-<div align="center">
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=eXLu51ve-gjj&theme=radical&hide_border=true&background=0D1117&stroke=A855F7&ring=A855F7&fire=A855F7&currStreakLabel=FFFFFF" alt="GitHub Streak" />
-</div>
+</p>
 
-<div align="center">
+<p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eXLu51ve-gjj&theme=radical" alt="Profile Details" />
-</div>
+</p>
 
-<div align="center">
+<p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=eXLu51ve-gjj&theme=radical" alt="Repos Per Language" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=eXLu51ve-gjj&theme=radical" alt="Most Commit Language" />
-</div>
+</p>
 
-<div align="center">
+<p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=eXLu51ve-gjj&theme=radical" alt="Stats" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=eXLu51ve-gjj&theme=radical" alt="Productive Time" />
-</div>
+</p>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
