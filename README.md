@@ -1,4 +1,4 @@
-# 👋 Привет! Я Тимур (eXLu51ve)
+Привет! Я Тимур (eXLu51ve)
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=940&lines=Full+Stack+Developer;Mobile+App+Developer;Open+Source+Enthusiast" alt="Typing SVG" />
@@ -20,7 +20,7 @@
 ## 💻 Языки программирования и инструменты:
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=vscode,html,css,sass,js,ts,react,redux,nextjs,nuxtjs,nodejs,express,py,fastapi,flutter,dart,kotlin,androidstudio,postgres,sqlite,prisma,supabase,docker,git,github,bash,postman,figma,npm,yarn,webpack,vite&perline=16" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=vscode,html,css,sass,js,ts,react,redux,nextjs,nuxtjs,vue,nodejs,express,py,fastapi,flutter,dart,kotlin,androidstudio,postgres,mysql,sqlite,mongodb,prisma,supabase,docker,kubernetes,git,github,bash,powershell,postman,figma,npm,yarn,webpack,vite&perline=16" alt="Tech Stack" />
 </p>
 
 ---
@@ -115,7 +115,7 @@ const timur = {
 ## 🔥 Мой стек:
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nuxtjs,nodejs,py,kotlin,flutter,dart,html,css,sass,postgres,sqlite,prisma,supabase,docker,git,github,vscode,androidstudio,postman,figma,npm,yarn,webpack,vite,bash&perline=15" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nuxtjs,vue,nodejs,express,py,fastapi,kotlin,flutter,dart,html,css,sass,postgres,mysql,sqlite,mongodb,prisma,supabase,docker,kubernetes,git,github,vscode,androidstudio,postman,figma,npm,yarn,webpack,vite,bash,powershell&perline=18" alt="Tech Stack" />
 </div>
 
 ---
