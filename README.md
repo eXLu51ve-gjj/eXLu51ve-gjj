@@ -1,3 +1,7 @@
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=eXLu51ve-gjj&color=blueviolet&style=plastic&label=Views" alt="Profile Views"/>
+</p>
+
 <p align="left">
   <img src="https://github.com/eXLu51ve-gjj/eXLu51ve-gjj/blob/main/logo5.jpg?raw=true" alt="eXLu51ve Logo" width="200" height="200"/>
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" height="200"/>
@@ -13,14 +17,11 @@
 
 ## <img src="https://img.shields.io/badge/Свяжитесь_со_мной-4285F4?style=plastic" alt="Контакты" width="260"/>
 
-<p align="left">
 <a href="https://www.youtube.com/@eXLu51ve"><img src="https://cdn.simpleicons.org/youtube/FF0000" width="40" style="vertical-align: middle;"/></a>&nbsp;&nbsp;
 <a href="https://www.instagram.com/exlu51ve_nml/"><img src="https://cdn.simpleicons.org/instagram/E4405F" width="40" style="vertical-align: middle;"/></a>&nbsp;&nbsp;
 <a href="https://vk.com/exlu51ve"><img src="https://cdn.simpleicons.org/vk/0077FF" width="40" style="vertical-align: middle;"/></a>&nbsp;&nbsp;
 <a href="https://discord.gg/yhzRXgxKS8"><img src="https://cdn.simpleicons.org/discord/5865F2" width="40" style="vertical-align: middle;"/></a>&nbsp;&nbsp;
-<a href="https://t.me/eXLu51ve"><img src="https://cdn.simpleicons.org/telegram/26A5E4" width="40" style="vertical-align: middle;"/></a>&nbsp;&nbsp;
-<img src="https://komarev.com/ghpvc/?username=eXLu51ve-gjj&color=blueviolet&style=plastic&label=Views" alt="Profile Views" style="vertical-align: middle;"/>
-</p>
+<a href="https://t.me/eXLu51ve"><img src="https://cdn.simpleicons.org/telegram/26A5E4" width="40" style="vertical-align: middle;"/></a>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
