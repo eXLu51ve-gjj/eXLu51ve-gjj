@@ -1,6 +1,13 @@
-<div align="center">
+<table>
+<tr>
+<td width="200">
   <img src="https://github.com/eXLu51ve-gjj/eXLu51ve-gjj/blob/main/logo5.jpg?raw=true" alt="eXLu51ve Logo" width="200"/>
-</div>
+</td>
+<td>
+  <img src="https://readme-quotes-bay.vercel.app/quote?theme=radical&animation=default&layout=default&font=default" alt="Dev Quote" />
+</td>
+</tr>
+</table>
 
 <div align="center">
   <img src="./WEBP/samurai.webp" width="100%" alt="Samurai Animation" />
@@ -205,9 +212,7 @@
 
 ### <img src="https://cdn.simpleicons.org/shieldsdotio/E60000" width="20"/> Cybersecurity & Networking
 
-<div align="center">
-  <img src="./GIF/Hacker.gif" width="300" alt="Hacker" />
-</div>
+<img src="./GIF/Hacker.gif" width="300" alt="Hacker" />
 
 <br/>
 
@@ -259,9 +264,7 @@
 
 ## <img src="https://img.shields.io/badge/Сертификаты_и_достижения-FFD700?style=plastic" alt="Сертификаты" width="360"/>
 
-<div align="center">
-  <img src="./GIF/Innovation.gif" width="300" alt="Innovation" />
-</div>
+<img src="./GIF/Innovation.gif" width="300" alt="Innovation" />
 
 <br/>
 
@@ -314,9 +317,7 @@
 
 ## <img src="https://img.shields.io/badge/Опыт_работы-795548?style=plastic" alt="Карьера" width="200"/>
 
-<div align="center">
-  <img src="./GIF/Business Plan.gif" width="350" alt="Business" />
-</div>
+<img src="./GIF/Business Plan.gif" width="350" alt="Business" />
 
 <br/>
 
@@ -412,15 +413,9 @@ System uptime: 99.99% | Load average: 0.42, 0.38, 0.35
 
 ## <img src="https://img.shields.io/badge/Coding_Stats-FF6384?style=plastic" alt="Статистика" width="200"/>
 
-<div align="center">
-  <img src="./GIF/123.gif" width="400" alt="Analytics" />
-</div>
+<img src="./GIF/123.gif" width="400" alt="Analytics" />
 
 <br/>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=eXLu51ve&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=FFFFFF" alt="WakaTime Stats" />
-</div>
 
 **Weekly Development Breakdown:**
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" width="16"/> Game Development (Unreal Engine, Unity): 35%
