@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./logo5.jpg" alt="eXLu51ve Logo" width="200" style="border-radius: 20px;"/>
+  <img src="./logo5.jpg" alt="eXLu51ve Logo" width="200" style="border-radius: 50%;"/>
   <h1>eXLu51ve</h1>
 </div>
 
