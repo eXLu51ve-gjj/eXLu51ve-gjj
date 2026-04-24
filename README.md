@@ -128,7 +128,9 @@
   <img src="https://img.shields.io/badge/LDAP-0052CC?style=flat&logo=auth&logoColor=white" height="28" title="LDAP"/>
 </p>
 
----
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
 
 ## <img src="https://img.shields.io/badge/Языки_программирования_и_инструменты-A855F7?style=plastic" alt="Технологии" width="480"/>
 
@@ -179,7 +181,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pnpm/pnpm-original.svg" width="40" title="pnpm"/>
 </p>
 
----
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
 
 ## <img src="https://img.shields.io/badge/Мои_проекты_и_достижения-FF6B6B?style=plastic" alt="Проекты" width="360"/>
 
@@ -218,7 +222,9 @@
 - Мейнтейнер 15+ популярных open-source проектов на GitHub
 - 5000+ stars на личных репозиториях
 
----
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
 
 ## <img src="https://img.shields.io/badge/Сертификаты_и_достижения-FFD700?style=plastic" alt="Сертификаты" width="360"/>
 
@@ -241,7 +247,9 @@
 - <img src="https://img.shields.io/badge/Microsoft-MVP-0078D4?style=flat&logo=microsoft&logoColor=white" height="16"/> **Microsoft MVP** (Most Valuable Professional) 2023-2024
 - <img src="https://img.shields.io/badge/Google-GDE-4285F4?style=flat&logo=google&logoColor=white" height="16"/> **Google Developer Expert** (GDE) in Web Technologies
 
----
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
 
 ## <img src="https://img.shields.io/badge/Сейчас_изучаю-0288D1?style=plastic" alt="Обучение" width="220"/>
 
@@ -263,7 +271,9 @@
 - <img src="https://cdn.simpleicons.org/blender/F5792A" width="16"/> **3D Graphics** - Blender, Three.js, WebGL
 - <img src="https://cdn.simpleicons.org/shieldsdotio/E60000" width="16"/> **Zero Trust Security** - Современные подходы к безопасности
 
----
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
 
 ## <img src="https://img.shields.io/badge/Опыт_работы-795548?style=plastic" alt="Карьера" width="200"/>
 
@@ -285,7 +295,9 @@
 - Автоматизация деплоя и мониторинга
 - Снижение времени деплоя на 80%
 
----
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
 
 ## <img src="https://img.shields.io/badge/Цели_на_2026-CC0000?style=plastic" alt="Цели" width="200"/>
 
@@ -297,7 +309,9 @@
 - [ ] Освоить Rust и Go на продакшн уровне
 - [ ] Создать популярный open-source проект (5K+ stars)
 
----
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
 
 ## <img src="https://img.shields.io/badge/Мой_Setup-FF6B6B?style=plastic" alt="Setup" width="180"/>
 
@@ -322,7 +336,9 @@
 - Kubernetes Cluster (K3s)
 - Self-hosted: GitLab, Nextcloud, Jellyfin, Home Assistant
 
----
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
 
 ## <img src="https://img.shields.io/badge/Coding_Stats-FF6384?style=plastic" alt="Статистика" width="200"/>
 
@@ -337,7 +353,9 @@
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="16"/> DevOps & Infrastructure (Docker, K8s, Terraform): 15%
 - <img src="https://cdn.simpleicons.org/tensorflow/FF6F00" width="16"/> AI/ML & Data Science: 5%
 
----
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
 
 ## <img src="https://img.shields.io/badge/Хобби_и_интересы-000000?style=plastic" alt="Хобби" width="260"/>
 
@@ -350,11 +368,15 @@
 - <img src="https://cdn.simpleicons.org/medium/000000" width="16"/> **Tech Blogging** - Пишу статьи о разработке и DevOps
 - <img src="https://cdn.simpleicons.org/strava/FC4C02" width="16"/> **Fitness** - Бег, тренажерный зал, здоровый образ жизни
 
----
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
 
 ## <img src="https://img.shields.io/badge/Мои_проекты-A855F7?style=plastic" alt="Проекты" width="200"/>
 
----
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
 
 ## <img src="https://img.shields.io/badge/GitHub_статистика-181717?style=plastic&logo=github&logoColor=white" alt="GitHub Stats" width="260"/>
 
@@ -370,7 +392,9 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=eXLu51ve-gjj&theme=radical&hide_border=true&background=0D1117&stroke=A855F7&ring=A855F7&fire=A855F7&currStreakLabel=FFFFFF" alt="GitHub Streak" />
 </div>
 
----
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
 
 ## <img src="https://img.shields.io/badge/Активность-FF6384?style=plastic" alt="Активность" width="180"/>
 
@@ -378,7 +402,9 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=eXLu51ve-gjj&theme=react-dark&hide_border=true&bg_color=0D1117&color=A855F7&line=A855F7&point=FFFFFF" alt="Activity Graph" />
 </div>
 
----
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
 
 ## <img src="https://img.shields.io/badge/Случайная_цитата_для_разработчиков-9C27B0?style=plastic" alt="Цитата" width="480"/>
 
@@ -386,7 +412,9 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
 </div>
 
----
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
 
 ## <img src="https://img.shields.io/badge/О_себе-000000?style=plastic" alt="О себе" width="140"/>
 
@@ -409,7 +437,9 @@ const timur = {
 };
 ```
 
----
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
 
 ## <img src="https://img.shields.io/badge/Мой_стек-FF6B6B?style=plastic" alt="Стек" width="160"/>
 
@@ -457,7 +487,9 @@ const timur = {
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" title="Bash"/>
 </p>
 
----
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=eXLu51ve-gjj&color=blueviolet&style=flat-square&label=Просмотров+профиля" alt="Profile Views" />
@@ -467,7 +499,9 @@ const timur = {
   <h3><img src="https://img.shields.io/badge/⭐_Не_забудьте_поставить_звезду_моим_проектам!-FFD700?style=plastic" alt="Звезда" width="560"/></h3>
 </div>
 
----
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" alt="Footer" />
