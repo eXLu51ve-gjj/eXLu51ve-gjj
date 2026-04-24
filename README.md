@@ -25,8 +25,21 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" width="40" title="Debian"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/centos/centos-original.svg" width="40" title="CentOS"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-original.svg" width="40" title="Fedora"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-original.svg" width="40" title="Red Hat"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rockylinux/rockylinux-original.svg" width="40" title="Rocky Linux"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/alpinelinux/alpinelinux-original.svg" width="40" title="Alpine Linux"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/archlinux/archlinux-original.svg" width="40" title="Arch Linux"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="40" title="Android"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" width="40" title="macOS/iOS"/>
+  <img src="https://cdn.simpleicons.org/raspberrypi/A22846" width="40" title="Raspberry Pi OS"/>
+  <img src="https://cdn.simpleicons.org/freebsd/AB2B28" width="40" title="FreeBSD"/>
+  <img src="https://cdn.simpleicons.org/openbsd/F2CA30" width="40" title="OpenBSD"/>
+  <img src="https://img.shields.io/badge/Windows_Server-0078D4?style=flat&logo=windows&logoColor=white" height="28" title="Windows Server"/>
+  <img src="https://img.shields.io/badge/Proxmox-E57000?style=flat&logo=proxmox&logoColor=white" height="28" title="Proxmox"/>
+  <img src="https://img.shields.io/badge/ESXi-607078?style=flat&logo=vmware&logoColor=white" height="28" title="VMware ESXi"/>
+  <img src="https://img.shields.io/badge/Hyper--V-0078D4?style=flat&logo=microsoft&logoColor=white" height="28" title="Hyper-V"/>
+  <img src="https://img.shields.io/badge/KVM-FF6600?style=flat&logo=linux&logoColor=white" height="28" title="KVM"/>
+  <img src="https://img.shields.io/badge/VirtualBox-183A61?style=flat&logo=virtualbox&logoColor=white" height="28" title="VirtualBox"/>
 </p>
 
 **Сетевое оборудование:**
@@ -35,12 +48,24 @@
   <img src="https://cdn.simpleicons.org/cisco/1BA0D7" width="40" title="Cisco"/>
   <img src="https://cdn.simpleicons.org/ubiquiti/0559C9" width="40" title="Ubiquiti"/>
   <img src="https://cdn.simpleicons.org/openwrt/00B5E2" width="40" title="OpenWrt"/>
+  <img src="https://cdn.simpleicons.org/pfsense/212121" width="40" title="pfSense"/>
+  <img src="https://cdn.simpleicons.org/opnsense/D94F00" width="40" title="OPNsense"/>
   <img src="https://img.shields.io/badge/Keenetic-0078D4?style=flat&logo=router&logoColor=white" height="28" title="Keenetic"/>
   <img src="https://img.shields.io/badge/ZyXEL-E60000?style=flat&logo=router&logoColor=white" height="28" title="ZyXEL"/>
   <img src="https://img.shields.io/badge/TP--Link-00A7E1?style=flat&logo=router&logoColor=white" height="28" title="TP-Link"/>
   <img src="https://img.shields.io/badge/Netgear-000000?style=flat&logo=router&logoColor=white" height="28" title="Netgear"/>
   <img src="https://img.shields.io/badge/ASUS-000000?style=flat&logo=asus&logoColor=white" height="28" title="ASUS"/>
   <img src="https://img.shields.io/badge/Tenda-0066CC?style=flat&logo=router&logoColor=white" height="28" title="Tenda"/>
+  <img src="https://img.shields.io/badge/D--Link-FFB900?style=flat&logo=router&logoColor=white" height="28" title="D-Link"/>
+  <img src="https://img.shields.io/badge/Linksys-0767C8?style=flat&logo=router&logoColor=white" height="28" title="Linksys"/>
+  <img src="https://img.shields.io/badge/Juniper-84B135?style=flat&logo=juniper&logoColor=white" height="28" title="Juniper"/>
+  <img src="https://img.shields.io/badge/Huawei-FF0000?style=flat&logo=huawei&logoColor=white" height="28" title="Huawei"/>
+  <img src="https://img.shields.io/badge/HPE-01A982?style=flat&logo=hpe&logoColor=white" height="28" title="HPE"/>
+  <img src="https://img.shields.io/badge/Aruba-FF8300?style=flat&logo=aruba&logoColor=white" height="28" title="Aruba"/>
+  <img src="https://img.shields.io/badge/Fortinet-EE3124?style=flat&logo=fortinet&logoColor=white" height="28" title="Fortinet"/>
+  <img src="https://img.shields.io/badge/Arista-FF6A00?style=flat&logo=arista&logoColor=white" height="28" title="Arista"/>
+  <img src="https://img.shields.io/badge/Extreme-0066CC?style=flat&logo=extreme&logoColor=white" height="28" title="Extreme Networks"/>
+  <img src="https://img.shields.io/badge/Ruckus-FFB81C?style=flat&logo=ruckus&logoColor=white" height="28" title="Ruckus"/>
 </p>
 
 **Сетевые протоколы и технологии:**
@@ -51,6 +76,10 @@
   <img src="https://cdn.simpleicons.org/cloudflare/F38020" width="40" title="Cloudflare"/>
   <img src="https://cdn.simpleicons.org/wireguard/88171A" width="40" title="WireGuard"/>
   <img src="https://cdn.simpleicons.org/openvpn/EA7E20" width="40" title="OpenVPN"/>
+  <img src="https://cdn.simpleicons.org/traefik/24A1C1" width="40" title="Traefik"/>
+  <img src="https://cdn.simpleicons.org/caddy/1F88C0" width="40" title="Caddy"/>
+  <img src="https://cdn.simpleicons.org/haproxy/00ADD8" width="40" title="HAProxy"/>
+  <img src="https://cdn.simpleicons.org/envoy/AC6199" width="40" title="Envoy"/>
   <img src="https://img.shields.io/badge/HTTP/HTTPS-005C84?style=flat&logo=https&logoColor=white" height="28" title="HTTP/HTTPS"/>
   <img src="https://img.shields.io/badge/SSL/TLS-721412?style=flat&logo=letsencrypt&logoColor=white" height="28" title="SSL/TLS"/>
   <img src="https://img.shields.io/badge/TCP-0066CC?style=flat&logo=protocol&logoColor=white" height="28" title="TCP"/>
@@ -67,6 +96,12 @@
   <img src="https://img.shields.io/badge/IPSec-FF5722?style=flat&logo=security&logoColor=white" height="28" title="IPSec"/>
   <img src="https://img.shields.io/badge/L2TP-795548?style=flat&logo=vpn&logoColor=white" height="28" title="L2TP"/>
   <img src="https://img.shields.io/badge/PPTP-9E9E9E?style=flat&logo=vpn&logoColor=white" height="28" title="PPTP"/>
+  <img src="https://img.shields.io/badge/SMTP-EA4335?style=flat&logo=gmail&logoColor=white" height="28" title="SMTP"/>
+  <img src="https://img.shields.io/badge/IMAP-34A853?style=flat&logo=gmail&logoColor=white" height="28" title="IMAP"/>
+  <img src="https://img.shields.io/badge/POP3-FBBC04?style=flat&logo=gmail&logoColor=white" height="28" title="POP3"/>
+  <img src="https://img.shields.io/badge/SNMP-4285F4?style=flat&logo=network&logoColor=white" height="28" title="SNMP"/>
+  <img src="https://img.shields.io/badge/NTP-00897B?style=flat&logo=clock&logoColor=white" height="28" title="NTP"/>
+  <img src="https://img.shields.io/badge/LDAP-0052CC?style=flat&logo=auth&logoColor=white" height="28" title="LDAP"/>
 </p>
 
 ---
