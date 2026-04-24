@@ -1,22 +1,22 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/eXLu51ve-gjj/eXLu51ve-gjj/main/logo5.jpg" alt="eXLu51ve Logo" width="200"/>
+  <img src="https://github.com/eXLu51ve-gjj/eXLu51ve-gjj/blob/main/logo5.jpg?raw=true" alt="eXLu51ve Logo" width="200"/>
 </div>
 
 ```ascii
-╔════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════╗
-║                                                                                                                            ║
-║     ███████╗██╗  ██╗██╗     ██╗   ██╗███████╗ ██╗██╗   ██╗███████╗                                                         ║
-║     ██╔════╝╚██╗██╔╝██║     ██║   ██║██╔════╝███║██║   ██║██╔════╝                                                         ║
-║     █████╗   ╚███╔╝ ██║     ██║   ██║███████╗╚██║██║   ██║█████╗                                                           ║
-║     ██╔══╝   ██╔██╗ ██║     ██║   ██║╚════██║ ██║╚██╗ ██╔╝██╔══╝                                                           ║
-║     ███████╗██╔╝ ██╗███████╗╚██████╔╝███████║ ██║ ╚████╔╝ ███████╗                                                         ║
-║     ╚══════╝╚═╝  ╚═╝╚══════╝ ╚═════╝ ╚══════╝ ╚═╝  ╚═══╝  ╚══════╝                                                         ║
-║                                                                                                                            ║
-║     > Full Stack Developer | Mobile App Developer | Open Source Enthusiast                                                 ║
-║     > Location: Russia                                                                                                     ║
-║     > Status: Building awesome projects                                                                                    ║
-║                                                                                                                            ║
-╚════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════╝
+╔═══════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════╗
+║                                                                                                                           ║
+║     ███████╗██╗  ██╗██╗     ██╗   ██╗███████╗ ██╗██╗   ██╗███████╗                                                        ║
+║     ██╔════╝╚██╗██╔╝██║     ██║   ██║██╔════╝███║██║   ██║██╔════╝                                                        ║
+║     █████╗   ╚███╔╝ ██║     ██║   ██║███████╗╚██║██║   ██║█████╗                                                          ║
+║     ██╔══╝   ██╔██╗ ██║     ██║   ██║╚════██║ ██║╚██╗ ██╔╝██╔══╝                                                          ║
+║     ███████╗██╔╝ ██╗███████╗╚██████╔╝███████║ ██║ ╚████╔╝ ███████╗                                                        ║
+║     ╚══════╝╚═╝  ╚═╝╚══════╝ ╚═════╝ ╚══════╝ ╚═╝  ╚═══╝  ╚══════╝                                                        ║
+║                                                                                                                           ║
+║     > Full Stack Developer | Mobile App Developer | Open Source Enthusiast                                                ║
+║     > Location: Russia                                                                                                    ║
+║     > Status: Building awesome projects                                                                                   ║
+║                                                                                                                           ║
+╚═══════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════╝
 ```
 
 <div align="center">
@@ -371,8 +371,12 @@
 ## <img src="https://img.shields.io/badge/GitHub_трофеи-FFD700?style=plastic" alt="Трофеи" width="220"/>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=eXLu51ve-gjj&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=eXLu51ve-gjj&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1&column=7" alt="GitHub Trophies" />
 </div>
+
+<p align="center">
+  <i>Трофеи появятся по мере вашей активности на GitHub! 🏆</i>
+</p>
 
 ---
 
