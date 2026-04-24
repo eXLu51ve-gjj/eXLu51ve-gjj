@@ -1,5 +1,7 @@
 <div align="center">
-  <img src="./logo5.jpg" alt="eXLu51ve Logo" width="200" style="border-radius: 50%;"/>
+  <a href="https://github.com/eXLu51ve-gjj">
+    <img src="https://avatars.githubusercontent.com/u/YOUR_USER_ID?v=4" alt="eXLu51ve Logo" width="200"/>
+  </a>
   <h1>eXLu51ve</h1>
 </div>
 
