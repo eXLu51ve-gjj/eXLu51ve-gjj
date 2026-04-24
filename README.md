@@ -11,7 +11,7 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
-## <img src="https://img.shields.io/badge/📬_Свяжитесь_со_мной-4285F4?style=plastic" alt="Контакты" width="300"/>
+## <img src="https://img.shields.io/badge/📬_Свяжитесь_со_мной-4285F4?style=plastic" alt="Контакты" width="300"/> <img src="https://komarev.com/ghpvc/?username=eXLu51ve-gjj&color=gradient&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
 
 <a href="https://www.youtube.com/@eXLu51ve"><img src="https://cdn.simpleicons.org/youtube/FF0000" width="40"/></a>&nbsp;&nbsp;
 <a href="https://www.instagram.com/exlu51ve_nml/"><img src="https://cdn.simpleicons.org/instagram/E4405F" width="40"/></a>&nbsp;&nbsp;
