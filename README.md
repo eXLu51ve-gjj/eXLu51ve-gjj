@@ -23,7 +23,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2800&pause=2000&color=00FF00&center=true&vCenter=true&width=940&lines=root@github:~%24+whoami;eXLu51ve+-+Full+Stack+Developer;root@github:~%24+cat+skills.txt;JavaScript+%7C+TypeScript+%7C+Python+%7C+C%2B%2B;root@github:~%24+echo+%22Let's+build+something+amazing!%22" alt="Terminal Typing" />
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=header" width="100%"/>
 
 ## <img src="https://img.shields.io/badge/Свяжитесь_со_мной-4285F4?style=plastic" alt="Контакты" width="280"/>
 
@@ -33,7 +33,7 @@
 <a href="https://discord.gg/yhzRXgxKS8"><img src="https://cdn.simpleicons.org/discord/5865F2" width="40"/></a>&nbsp;&nbsp;
 <a href="https://t.me/eXLu51ve"><img src="https://cdn.simpleicons.org/telegram/26A5E4" width="40"/></a>
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,17,22&height=100&section=footer" width="100%"/>
 
 ## <img src="https://img.shields.io/badge/Операционные_системы_и_сетевое_оборудование-0078D4?style=plastic" alt="ОС и сеть" width="520"/>
 
@@ -365,18 +365,6 @@
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=eXLu51ve-gjj&theme=radical&hide_border=true&background=0D1117&stroke=A855F7&ring=A855F7&fire=A855F7&currStreakLabel=FFFFFF" alt="GitHub Streak" />
 </div>
-
----
-
-## <img src="https://img.shields.io/badge/GitHub_трофеи-FFD700?style=plastic" alt="Трофеи" width="220"/>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=eXLu51ve-gjj&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1&column=7" alt="GitHub Trophies" />
-</div>
-
-<p align="center">
-  <i>Трофеи появятся по мере вашей активности на GitHub! 🏆</i>
-</p>
 
 ---
 
