@@ -2,25 +2,8 @@
   <img src="https://github.com/eXLu51ve-gjj/eXLu51ve-gjj/blob/main/logo5.jpg?raw=true" alt="eXLu51ve Logo" width="200"/>
 </div>
 
-```ascii
-╔═══════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════╗
-║                                                                                                                           ║
-║     ███████╗██╗  ██╗██╗     ██╗   ██╗███████╗ ██╗██╗   ██╗███████╗                                                        ║
-║     ██╔════╝╚██╗██╔╝██║     ██║   ██║██╔════╝███║██║   ██║██╔════╝                                                        ║
-║     █████╗   ╚███╔╝ ██║     ██║   ██║███████╗╚██║██║   ██║█████╗                                                          ║
-║     ██╔══╝   ██╔██╗ ██║     ██║   ██║╚════██║ ██║╚██╗ ██╔╝██╔══╝                                                          ║
-║     ███████╗██╔╝ ██╗███████╗╚██████╔╝███████║ ██║ ╚████╔╝ ███████╗                                                        ║
-║     ╚══════╝╚═╝  ╚═╝╚══════╝ ╚═════╝ ╚══════╝ ╚═╝  ╚═══╝  ╚══════╝                                                        ║
-║                                                                                                                           ║
-║     > Full Stack Developer | Mobile App Developer | Open Source Enthusiast                                                ║
-║     > Location: Russia                                                                                                    ║
-║     > Status: Building awesome projects                                                                                   ║
-║                                                                                                                           ║
-╚═══════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════╝
-```
-
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2800&pause=2000&color=00FF00&center=true&vCenter=true&width=940&lines=root@github:~%24+whoami;eXLu51ve+-+Full+Stack+Developer;root@github:~%24+cat+skills.txt;JavaScript+%7C+TypeScript+%7C+Python+%7C+C%2B%2B;root@github:~%24+echo+%22Let's+build+something+amazing!%22" alt="Terminal Typing" />
+  <img src="./WEBP/samurai.webp" width="100%" alt="Samurai Animation" />
 </div>
 
 <div align="center">
