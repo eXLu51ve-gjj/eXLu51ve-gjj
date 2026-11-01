@@ -68,8 +68,8 @@ Discord    discord.gg/yhzRXgxKS8      │ GitHub   github.com/eXLu51ve-gjj
 ```
 
 ```text
-V I E W S
-─────────────
-429
+П Р О С М О Т Р Ы
+────────────────────────
+Views   │ 429
 ```
 

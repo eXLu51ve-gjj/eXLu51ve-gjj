@@ -25,9 +25,9 @@ jobs:
           n = os.environ["N"]
           p = "README.md"
           t = open(p, encoding="utf-8").read()
-          new = re.sub(r"(V I E W S\n─+\n)\d+", r"\g<1>" + n, t)
+          new = re.sub(r"(П Р О С М О Т Р Ы\n─+\nViews\s*│\s*)\d+", r"\g<1>" + n, t)
           open(p, "w", encoding="utf-8", newline="\n").write(new)
-          print([l for l in new.splitlines() if l.strip().isdigit()])
+          print([l for l in new.splitlines() if "Views" in l])
           PY
 
       - name: Commit
