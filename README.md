@@ -61,10 +61,10 @@ GPU          NVIDIA HGX B200 — 8× 180 GB HBM3e, NVLink 5
 
 ```text
 К О Н Т А К Т Ы
-──────────────────────────────────────────────────────────────────────────
-Telegram    t.me/eXLu51ve          YouTube    youtube.com/@eXLu51ve
-Instagram   instagram.com/exlu51ve_nml
-VK          vk.com/exlu51ve        Discord    discord.gg/yhzRXgxKS8
+──────────────────────────────────────────────────────────────
+Telegram   t.me/eXLu51ve                YouTube  youtube.com/@eXLu51ve
+Instagram  instagram.com/exlu51ve_nml   VK       vk.com/exlu51ve
+Discord    discord.gg/yhzRXgxKS8        GitHub   github.com/eXLu51ve-gjj
 ```
 
 <div align="center">
