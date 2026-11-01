@@ -12,11 +12,11 @@
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" height="24"/>
-  <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white" height="24"/>
-  <img src="https://img.shields.io/badge/Unreal%20Engine-0E1128?style=flat-square&logo=unrealengine&logoColor=white" height="24"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" height="24"/>
-  <img src="https://img.shields.io/badge/Proxmox-E57000?style=flat-square&logo=proxmox&logoColor=white" height="24"/>
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" height="28"/>
+  <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white" height="28"/>
+  <img src="https://img.shields.io/badge/Unreal%20Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white" height="28"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" height="28"/>
+  <img src="https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white" height="28"/>
 </p>
 
 </div>
@@ -52,15 +52,23 @@
 Android на Kotlin и Compose: от идеи до релиза в RuStore. Последний проект —
 **HETERO**, учёт смен и расчёт зарплаты с ночными, выходными и графиком 2/2.
 
+</td>
+<td width="50%" valign="top">
+
 **🌐 Сети и инфраструктура**<br/>
 MikroTik, Cisco, Ubiquiti, pfSense, VLAN, VPN, мониторинг. Домашняя
 лаборатория на Proxmox и K3s — там же тестирую сервисы, прежде чем катить в прод.
 
 </td>
-<td width="50%" valign="top">
+</tr>
+<tr>
+<td valign="top">
 
 **🎮 Game Development**<br/>
 Unreal Engine, C++, геймплей и VR. Ассеты и окружение — в Blender.
+
+</td>
+<td valign="top">
 
 **🧪 Пет-проекты**<br/>
 [AuF-Network-Tools](https://github.com/eXLu51ve-gjj/AuF-Network-Tools) ·
@@ -71,46 +79,44 @@ Unreal Engine, C++, геймплей и VR. Ассеты и окружение �
 </tr>
 </table>
 
+```bash
+$ tree ~/focus
+├── mobile/     Android · Kotlin · Jetpack Compose · Room · WorkManager
+├── gamedev/    Unreal Engine · C++ · VR · Blender
+├── network/    MikroTik · Cisco · Ubiquiti · pfSense · VLAN · VPN
+└── homelab/    Proxmox · TrueNAS · K3s · self-hosted
+```
+
 ---
 
 ## 💻 Мой Setup
 
+**Железо**
+
+<img src="https://img.shields.io/badge/CPU-Ryzen%209%209950X3D-FF3B3B?style=for-the-badge&logo=amd&logoColor=white"/>
+<img src="https://img.shields.io/badge/GPU-RTX%205090%20Super%2032GB-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
+<img src="https://img.shields.io/badge/RAM-256%20GB%20DDR5%207200-E57000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Storage-8%20TB%20NVMe%20Gen5-2496ED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Displays-3x%204K%20240Hz%20+%208K%20UW-8957E5?style=for-the-badge"/>
+
+**Софт**
+
+<img src="https://img.shields.io/badge/OS-Windows%2011%20Pro-0078D4?style=for-the-badge&logo=windows11&logoColor=white"/>
+<img src="https://img.shields.io/badge/OS-Arch%20Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white"/>
+<img src="https://img.shields.io/badge/IDE-JetBrains%20+%20VS%20Code-000000?style=for-the-badge&logo=jetbrains&logoColor=white"/>
+<img src="https://img.shields.io/badge/Engine-Unreal%20Engine%205.4-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white"/>
+<img src="https://img.shields.io/badge/Design-Figma%20+%20Blender-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+<img src="https://img.shields.io/badge/Terminal-Windows%20Terminal%20+%20Starship-4D4D4D?style=for-the-badge&logo=windowsterminal&logoColor=white"/>
+
+**Гомлаб**
+
 ```bash
-# ============================================
-#  💻 HARDWARE SPECIFICATIONS
-# ============================================
-
-$ neofetch --hardware
-
-CPU:      AMD Ryzen 9 9950X3D (32 cores, 64 threads @ 5.7GHz)
-GPU:      NVIDIA RTX 5090 Super 32GB GDDR7 (для ML и Game Dev)
-RAM:      256GB DDR5 7200MHz CL32
-Storage:  8TB NVMe Gen5 SSD (Samsung 990 EVO Plus) + 4TB NVMe Cache
-Monitor:  3x 4K 240Hz OLED + 1x Ultrawide 8K Curved
-
-# ============================================
-#  🛠️ SOFTWARE & TOOLS
-# ============================================
-
-$ cat ~/.config/setup.conf
-
-OS:       Windows 11 Pro + Arch Linux (dual boot)
-IDE:      VS Code, JetBrains Ultimate Suite, Unreal Engine 5.4
-Terminal: Windows Terminal + Oh My Zsh + Starship
-Browser:  Arc, Chrome DevTools, Firefox Developer Edition
-Design:   Figma, Blender 4.0, Adobe Creative Cloud Suite
-
-# ============================================
-#  🏠 HOMELAB INFRASTRUCTURE
-# ============================================
-
 $ kubectl get nodes
-
 Proxmox VE Cluster:    5 nodes (High Availability)
-TrueNAS Scale:         200TB storage (RAID-Z2)
-pfSense Firewall:      10Gbps + Suricata IDS/IPS
-Kubernetes Cluster:    K3s (20 nodes, 500+ pods)
-Self-hosted Services:  GitLab, Nextcloud, Jellyfin, 
+TrueNAS Scale:         200 TB storage (RAID-Z2)
+pfSense Firewall:      10 Gbps + Suricata IDS/IPS
+Kubernetes Cluster:    K3s, 20 nodes, 500+ pods
+Self-hosted Services:  GitLab, Nextcloud, Jellyfin,
                        Home Assistant, Grafana, Prometheus
 
 $ uptime
@@ -119,7 +125,7 @@ System uptime: 99.99% | Load average: 0.42, 0.38, 0.35
 
 ---
 
-## 🛠 Стек и оборудование
+## 🛠 Стек
 
 <table>
 <tr>
@@ -160,6 +166,15 @@ System uptime: 99.99% | Load average: 0.42, 0.38, 0.35
 </td>
 </tr>
 </table>
+
+```bash
+$ cat stack.txt
+languages  Kotlin  Java  Python  TypeScript  C++  Bash  SQL
+android    Compose  Room  DataStore  WorkManager  Gradle  Material 3
+gamedev    Unreal Engine 5  Blender  VR
+infra      Docker  Linux  Nginx  Redis  PostgreSQL  GitHub Actions
+network    Cisco  MikroTik  Ubiquiti  pfSense  VLAN  VPN  Wireshark
+```
 
 <details>
 <summary><b>Полный список: ОС, сетевое оборудование и протоколы</b></summary>
@@ -345,8 +360,20 @@ System uptime: 99.99% | Load average: 0.42, 0.38, 0.35
 <a href="https://vk.com/exlu51ve"><img src="https://cdn.simpleicons.org/vk/0077FF" width="38" title="VK"/></a>&nbsp;&nbsp;
 <a href="https://discord.gg/yhzRXgxKS8"><img src="https://cdn.simpleicons.org/discord/5865F2" width="38" title="Discord"/></a>
 
-<br/><br/>
+</div>
 
-<img src="https://komarev.com/ghpvc/?username=eXLu51ve-gjj&color=FF3B3B&style=flat-square&label=views" alt="views"/>
+```json
+$ curl -s https://eXLu51ve.dev/contact.json
+{
+  "telegram":  "@eXLu51ve",
+  "youtube":   "@eXLu51ve",
+  "discord":   "discord.gg/yhzRXgxKS8",
+  "timezone":  "Europe/Moscow",
+  "status":    "open to interesting projects"
+}
 
+```
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=eXLu51ve-gjj&color=FF3B3B&style=flat-square&label=views" alt="views"/>
 </div>
