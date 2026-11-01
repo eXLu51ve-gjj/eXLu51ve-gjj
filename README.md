@@ -11,7 +11,12 @@
   Автор <b>HETERO</b> — учёт смен и расчёт зарплаты
 </p>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=FF3B3B&center=true&vCenter=true&width=520&lines=Kotlin+%2F+Compose+%2F+Room;Ship+it%2C+measure+it%2C+fix+it;Code+sleep+repeat" alt="typing"/>
+<p>
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" height="24"/>
+  <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white" height="24"/>
+  <img src="https://img.shields.io/badge/Room-3DDC84?style=flat-square&logo=android&logoColor=white" height="24"/>
+  <img src="https://img.shields.io/badge/Unreal%20Engine-0E1128?style=flat-square&logo=unrealengine&logoColor=white" height="24"/>
+</p>
 
 </div>
 
