@@ -1,0 +1,34 @@
+﻿name: Profile views
+
+on:
+  schedule:
+    - cron: "0 3 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  views:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Fetch counter and update README
+        run: |
+          svg=$(curl -sL "https://komarev.com/ghpvc/?username=eXLu51ve-gjj&style=flat-square&label=views")
+          n=$(printf '%s' "$svg" | grep -oE '>[0-9]+<' | tr -d '><' | head -1)
+          if [ -z "$n" ]; then echo "counter not found"; exit 0; fi
+          echo "counter: $n"
+          perl -i -pe 's/(Профиль\s*│\s*)\d+/${1}'"$n"'/u' README.md
+          grep -n "Профиль" README.md || true
+
+      - name: Commit
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add README.md
+          if git diff --staged --quiet; then echo "no changes"; else
+            git commit -m "views: update counter"
+            git push
+          fi

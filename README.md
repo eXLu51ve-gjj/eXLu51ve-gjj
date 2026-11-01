@@ -67,6 +67,9 @@ Instagram  instagram.com/exlu51ve_nml │ VK       vk.com/exlu51ve
 Discord    discord.gg/yhzRXgxKS8      │ GitHub   github.com/eXLu51ve-gjj
 ```
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=eXLu51ve-gjj&color=FF3B3B&style=flat-square&label=views" alt="views"/>
-</div>
+```text
+П Р О С М О Т Р Ы
+────────────────────────
+Профиль   │ 429
+```
+
