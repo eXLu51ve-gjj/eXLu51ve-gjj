@@ -15,15 +15,6 @@ Game Dev на Unreal Engine · сети и инфраструктура · го�
   <img src="./WEBP/samurai.webp" width="100%" alt="Samurai" />
 </div>
 
-## Чем занимаюсь
-
-**Мобильная разработка** — Android на Kotlin и Compose: от идеи до релиза в RuStore.
-Последний проект — HETERO, учёт смен и расчёт зарплаты с ночными, выходными и графиком 2/2.
-
-**Game Dev** — Unreal Engine, C++, геймплей и VR. Ассеты и окружение — в Blender.
-
-**Сети и инфраструктура** — MikroTik, Cisco, Ubiquiti, pfSense, VLAN, VPN, мониторинг.
-
 ## Стек
 
 ```text
@@ -50,6 +41,16 @@ GPU        NVIDIA RTX 5090 Super 32 GB GDDR7
 ```
 
 ## Серверы
+
+```text
+Платформа   2× AMD EPYC 9965 — 192 ядра / 384 потока Zen 5
+Память      24× 64 GB DDR5-6400 ECC RDIMM — 1.5 TB, 12 каналов на сокет
+GPU         NVIDIA HGX B200 — 8× 180 GB HBM3e, NVLink 5
+Диски       8× 30.72 TB PCIe 5.0 NVMe U.3 + 2× 3.84 TB NVMe boot
+Сеть        2× 400 GbE (ConnectX-7) · 1× 10 GbE BMC/IPMI
+Питание     8× 3000 W Titanium, hot-swap, N+1
+Шасси       8U, воздушное охлаждение, 8 слотов GPU
+```
 
 ```text
 Гипервизор   Proxmox VE — 5 узлов, High Availability
