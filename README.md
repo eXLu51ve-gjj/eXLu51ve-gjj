@@ -89,14 +89,6 @@ System uptime: 99.99% | Load average: 0.42, 0.38, 0.35
 
 ---
 
-## 🧊 Контрибуции в 3D
-
-<div align="center">
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D contribution graph"/>
-</div>
-
----
-
 ## 📊 Статистика
 
 <div align="center">
