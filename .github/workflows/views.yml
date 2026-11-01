@@ -20,8 +20,8 @@ jobs:
           n=$(printf '%s' "$svg" | grep -oE '>[0-9]+<' | tr -d '><' | head -1)
           if [ -z "$n" ]; then echo "counter not found"; exit 0; fi
           echo "counter: $n"
-          perl -i -pe 's/(Профиль\s*│\s*)\d+/${1}'"$n"'/u' README.md
-          grep -n "Профиль" README.md || true
+          perl -i -pe 's/(Views\s*│\s*)\d+/${1}'"$n"'/u' README.md
+          grep -n "Views" README.md || true
 
       - name: Commit
         run: |
