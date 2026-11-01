@@ -24,43 +24,41 @@ Game Dev на Unreal Engine · сети и инфраструктура · го�
 
 **Сети и инфраструктура** — MikroTik, Cisco, Ubiquiti, pfSense, VLAN, VPN, мониторинг.
 
-**Гомлаб** — Proxmox, TrueNAS, K3s и self-hosted сервисы: тестовая среда, прежде чем катить в прод.
-
 ## Стек
 
-| | |
-|---|---|
-| **Языки** | Kotlin · Java · Python · TypeScript · C++ · Bash · SQL |
-| **Android** | Compose · Room · DataStore · WorkManager · Gradle · Material 3 |
-| **Game Dev** | Unreal Engine 5 · Blender · VR |
-| **Инфраструктура** | Docker · Linux · Nginx · Redis · PostgreSQL · GitHub Actions |
-| **Сети** | Cisco · MikroTik · Ubiquiti · pfSense · VLAN · VPN · Wireshark |
+```text
+Языки            Kotlin · Java · Python · TypeScript · C++ · Bash · SQL
+Android          Compose · Room · DataStore · WorkManager · Gradle · Material 3
+Game Dev         Unreal Engine 5 · Blender · VR
+Инфраструктура   Docker · Linux · Nginx · Redis · PostgreSQL · GitHub Actions
+Сети             Cisco · MikroTik · Ubiquiti · pfSense · VLAN · VPN · Wireshark
+```
 
-## Мой Setup
+## Рабочая станция
 
-| | |
-|---|---|
-| **CPU** | AMD Ryzen 9 9950X3D — 32 ядра / 64 потока, до 5.7 GHz |
-| **GPU** | NVIDIA RTX 5090 Super 32 GB GDDR7 |
-| **Память** | 256 GB DDR5 7200 CL32 |
-| **Диски** | 8 TB NVMe Gen5 (Samsung 990 EVO Plus) + 4 TB NVMe cache |
-| **Мониторы** | 3× 4K 240 Hz OLED + 1× Ultrawide 8K |
-| **ОС** | Windows 11 Pro + Arch Linux (dual boot) |
-| **Среда** | VS Code, JetBrains Ultimate Suite, Unreal Engine 5.4 |
-| **Терминал** | Windows Terminal + Oh My Zsh + Starship |
-| **Браузер** | Arc, Chrome DevTools, Firefox Developer Edition |
-| **Дизайн** | Figma, Blender 4.0, Adobe Creative Cloud Suite |
+```text
+CPU        AMD Ryzen 9 9950X3D — 32 ядра / 64 потока, до 5.7 GHz
+GPU        NVIDIA RTX 5090 Super 32 GB GDDR7
+Память     256 GB DDR5 7200 CL32
+Диски      8 TB NVMe Gen5 (Samsung 990 EVO Plus) + 4 TB NVMe cache
+Мониторы   3× 4K 240 Hz OLED + 1× Ultrawide 8K
+ОС         Windows 11 Pro + Arch Linux (dual boot)
+Среда      VS Code, JetBrains Ultimate Suite, Unreal Engine 5.4
+Терминал   Windows Terminal + Oh My Zsh + Starship
+Браузер    Arc, Chrome DevTools, Firefox Developer Edition
+Дизайн     Figma, Blender 4.0, Adobe Creative Cloud Suite
+```
 
-## Гомлаб
+## Серверы
 
-| | |
-|---|---|
-| **Виртуализация** | Proxmox VE — 5 узлов, High Availability |
-| **Хранилище** | TrueNAS Scale — 200 TB, RAID-Z2 |
-| **Шлюз** | pfSense — 10 Gbps + Suricata IDS/IPS |
-| **Кластер** | K3s — 20 узлов, 500+ подов |
-| **Сервисы** | GitLab · Nextcloud · Jellyfin · Home Assistant · Grafana · Prometheus |
-| **Аптайм** | 99.99 %, средняя нагрузка 0.42 |
+```text
+Гипервизор   Proxmox VE — 5 узлов, High Availability
+Хранилище    TrueNAS Scale — 200 TB, RAID-Z2
+Шлюз         pfSense — 10 Gbps + Suricata IDS/IPS
+Кластер      K3s — 20 узлов, 500+ подов
+Сервисы      GitLab · Nextcloud · Jellyfin · Home Assistant · Grafana · Prometheus
+Аптайм       99.99%, средняя нагрузка 0.42
+```
 
 ## Контакты
 
