@@ -20,8 +20,15 @@ jobs:
           n=$(printf '%s' "$svg" | grep -oE '>[0-9]+<' | tr -d '><' | head -1)
           if [ -z "$n" ]; then echo "counter not found"; exit 0; fi
           echo "counter: $n"
-          perl -i -pe 's/(Views\s*│\s*)\d+/${1}'"$n"'/u' README.md
-          grep -n "Views" README.md || true
+          N="$n" python3 - <<'PY'
+          import os, re
+          n = os.environ["N"]
+          p = "README.md"
+          t = open(p, encoding="utf-8").read()
+          new = re.sub(r"(V I E W S\n─+\n)\d+", r"\g<1>" + n, t)
+          open(p, "w", encoding="utf-8", newline="\n").write(new)
+          print([l for l in new.splitlines() if l.strip().isdigit()])
+          PY
 
       - name: Commit
         run: |

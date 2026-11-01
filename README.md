@@ -69,7 +69,7 @@ Discord    discord.gg/yhzRXgxKS8      │ GitHub   github.com/eXLu51ve-gjj
 
 ```text
 V I E W S
-────────────────────────
-Views   │ 429
+─────────────
+429
 ```
 
